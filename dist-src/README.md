@@ -2,7 +2,15 @@
 
 **Autor:** pipecitooficial  
 **Módulo:** `LGCamera-V50-magisk.zip`  
-**Base:** LG Camera 9.10.17 del LG V50 (LM-V500N), portada a LineageOS 22.2 / Android 15.
+**Base:** LG Camera 9.10.17 del LG V50 (LM-V500N), portada a LineageOS 22.2 / Android 15.  
+**Repositorio:** <https://github.com/pipeprogamer89/lgv50camera>  
+**Descarga:** <https://github.com/pipeprogamer89/lgv50camera/releases>
+
+Verifica la descarga antes de flashear:
+
+```sh
+sha256sum -c SHA256SUMS
+```
 
 ---
 
