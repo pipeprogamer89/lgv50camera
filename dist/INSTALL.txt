@@ -1,0 +1,46 @@
+LG V50 Camera (AOSP/LineageOS 22.2) - INSTALACION RAPIDA
+Autor: pipecitooficial
+Proyecto personal asistido por IA. SIN SOPORTE. SIN GARANTIAS.
+
+REQUISITOS
+- LG V50 ThinQ (flashlmdd)
+- LineageOS 22.2 / Android 15 (probado en userdebug/test-keys)
+- Magisk + bootloader desbloqueado
+- Backup hecho
+
+INSTALAR
+1. Quita los modulos anteriores de la camara (lgcamera_v50, lgcamera_v50_halfix) y reinicia.
+2. Comprueba:  adb shell pm path com.lge.camera
+   Si sale /data/app/..., desinstala la actualizacion de la app (Ajustes > Apps > Camara >
+   Desinstalar actualizaciones) o instala el APK del modulo con: adb install -r LGCameraApp.apk
+3. Flashea LGCamera-V50-magisk.zip en Magisk.
+4. Reinicia.
+5. Abre la camara y concede permisos.
+
+AI CAM / STUDIO / RETRATO
+- EllieVision va incluida en el modulo para AI CAM.
+- Studio y Retrato usan el HAL/ArcSoft; no necesitan apps extra.
+
+CINE VIDEO
+- Elige un look en la tira; la vista previa cambia.
+- Graba y para. Sale "Procesando video Cine..." y luego "Video Cine guardado".
+- El video guardado lleva el look; el audio y la rotacion se conservan.
+- La vineta no se aplica (limitacion del HAL en 8 bits).
+
+VIDEO MANUAL / PRO
+- Hi-Fi graba AAC (el encoder LG no existe en AOSP). Ya no crashea.
+- HDR10 graba HEVC Main 8 bits SDR BT.2020 (fallback; no es HDR10 real).
+
+LIMITACIONES
+- Sin HDR10 real / 10 bits.
+- Sin audio Hi-Fi 24 bits, ASMR ni zoom de audio.
+- Sin vineta en Cine Video.
+- GIF, Dual Screen, QuickClip y auto-actualizacion LG desactivados.
+
+LOGS
+adb logcat -s LGCameraPort CameraApp
+
+DESINSTALAR
+Quita el modulo en Magisk y reinicia.
+
+SIN SOPORTE. NO RESPONDO DUDAS. USALO BAJO TU RESPONSABILIDAD.

@@ -1,0 +1,26 @@
+# Large / proprietary inputs and generated output
+p1/
+stock-backup/
+stock-capture/
+port-capture/
+build/
+out/
+backups/
+dist/module/
+dist/*.zip
+cine/cin.tar
+cine/cinema/
+cine/film-out/
+*.img
+*.img.zst
+*.odex
+*.vdex
+*.apk
+*.zip
+*.log
+
+# Keep the public docs and sources
+!dist-src/
+!dist/README.md
+!dist/INSTALL.txt
+!README.md
