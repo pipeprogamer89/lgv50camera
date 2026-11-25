@@ -117,6 +117,12 @@ tools/make-dist.sh    # genera dist/ (módulo combinado + README + SHA256)
 Las rutas absolutas de `tools/build.sh` (`ROOT`, `LINEAGE`, `SDK`) hay que ajustarlas a tu entorno.
 Si vas a modificar el port, lee antes **[AGENTS.md](AGENTS.md)**.
 
+Para actualizar `p0/props.txt` con el V50 conectado por ADB:
+
+```sh
+python3 tools/capture_props.py   # filtra serial, IMEI y MAC antes de guardar el volcado
+```
+
 ---
 
 ## Estructura del repositorio
@@ -133,8 +139,6 @@ Si vas a modificar el port, lee antes **[AGENTS.md](AGENTS.md)**.
 | `docs/` | Documentación técnica del port |
 
 ## Documentación
-
-Para actualizar `p0/props.txt` con el V50 conectado por ADB, ejecuta `python3 tools/capture_props.py`. El script filtra las propiedades de número de serie antes de guardar el volcado.
 
 - **[docs/PORT.md](docs/PORT.md)** — estado del port: qué se parcheó, verificación y pruebas en
   dispositivo, cambios necesarios en el árbol de Lineage.

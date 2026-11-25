@@ -37,9 +37,12 @@ Documentación de fondo: [`docs/ANALISIS.md`](docs/ANALISIS.md) (viabilidad) y
    *release asset*, no en el repo.
 3. **No commitees artefactos de build**: `build/`, `out/`, `backups/`, `dist/*.zip`,
    `dist/module/`, `shims/classes/`, `shims/dex/`, `tools/patcher/*.class`, `*.log`.
-4. **No inventes verificaciones.** Si no lo corriste en el dispositivo, escribe "pendiente de
+4. **No commitees datos personales ni binarios extraídos.** `p0/props.txt` se actualiza solo con
+   `python3 tools/capture_props.py`, que filtra serial, IMEI y MAC. En `ellie/` solo se versiona el
+   `README.md`: el APK de EllieVision y su contenido descomprimido son locales.
+5. **No inventes verificaciones.** Si no lo corriste en el dispositivo, escribe "pendiente de
    probar", no "funciona".
-5. **Respeta la postura del autor sobre la IA** (ver arriba) al escribir textos públicos.
+6. **Respeta la postura del autor sobre la IA** (ver arriba) al escribir textos públicos.
 
 ---
 
@@ -144,6 +147,7 @@ p1/app/LGCameraApp.apk            # APK stock del V50
 p1/x/classes.dex, classes2.dex    # dex extraídos del APK
 p1/sys/system/lge-res/lge-res.apk # recursos LG
 p1/etc/camera_config.xml          # config de cámara del stock
+ellie/EllieVision-platform.apk    # EllieVision firmada con test-keys (solo para make-dist.sh)
 ```
 
 ---
@@ -165,6 +169,12 @@ apksigner verify --print-certs build/LGCameraApp.apk
 python3 tools/dexrefs.py build/dex/*.dex
 
 # IDs de recursos: 107/107 idénticos al stock
+```
+
+Los volcados de `p0/` se regeneran en el dispositivo, nunca a mano:
+
+```sh
+python3 tools/capture_props.py   # getprop filtrado (serial/IMEI/MAC fuera)
 ```
 
 Además: `dex2oat` contra el boot classpath real de tu árbol de Lineage detecta referencias rotas en
@@ -243,3 +253,4 @@ viñeta de Cine Video, GIF, Dual Screen, QuickClip.
 | Arreglar un recurso LG que falta | `lgres_seeds.txt` + `gen_lgres_lite.py` |
 | Cambiar el empaquetado del módulo | `tools/make-dist.sh` |
 | Cambiar textos públicos / instrucciones | `dist-src/` (luego `make-dist.sh` los copia) |
+| Actualizar los volcados de `p0/` | `tools/capture_props.py` (filtra datos personales), nunca a mano |

@@ -4,9 +4,8 @@ Este repositorio contiene **parches, shims y herramientas de interoperabilidad**
 
 ## Componentes del firmware
 
-Los siguientes componentes proceden del firmware del dispositivo. Para compilar el módulo se
-aportan los archivos locales indicados en el README. El ZIP de distribución incluye la cámara
-parcheada, el HAL y el APK firmado de EllieVision.
+Los siguientes componentes proceden del firmware del dispositivo. **No se versionan en este
+repositorio**: para compilar el módulo se aportan localmente, como indica el README.
 
 | Componente | Origen |
 |---|---|
@@ -16,8 +15,13 @@ parcheada, el HAL y el APK firmado de EllieVision.
 | LUTs originales de Cine Video | `/vendor/etc/camera/cinema` del firmware |
 | `EllieVision` | App de LG para el reconocimiento de escenas de AI CAM |
 
-**No se concede licencia alguna sobre estos componentes.** El usuario debe extraerlos de su propio
-firmware. Queda prohibida su redistribución comercial.
+**No se concede licencia alguna sobre estos componentes.** Cada usuario debe extraerlos de su propio
+firmware y usarlos solo en su dispositivo.
+
+El ZIP publicado en *Releases* contiene el resultado empaquetado del port: la app parcheada, el HAL
+modificado y EllieVision firmada con la clave de plataforma. Se publica como **proyecto personal, sin
+ánimo comercial y sin garantías**, y no implica licencia alguna sobre el software de LG. No
+redistribuyas ese ZIP con fines comerciales.
 
 ## Componentes de terceros (incluidos)
 

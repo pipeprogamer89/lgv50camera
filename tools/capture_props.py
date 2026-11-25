@@ -8,15 +8,17 @@ import tempfile
 
 
 DESTINATION = Path(__file__).resolve().parents[1] / "p0" / "props.txt"
-SERIAL_PROPERTY = re.compile(
-    rb"^\[[^\]\r\n]*serial[^\]\r\n]*\]: \[([^\r\n]*)\](?:\n|$)", re.I | re.M
+# Propiedades cuyo nombre delata un identificador único del dispositivo.
+IDENTIFIER_PROPERTY = re.compile(
+    rb"^\[[^\]\r\n]*(?:serial|imei|meid|macaddr|btaddr)[^\]\r\n]*\]: \[([^\r\n]*)\](?:\n|$)",
+    re.I | re.M,
 )
 
 
 def sanitize(raw):
     data = raw.replace(b"\r\n", b"\n")
-    values = set(SERIAL_PROPERTY.findall(data))
-    data = SERIAL_PROPERTY.sub(b"", data)
+    values = set(IDENTIFIER_PROPERTY.findall(data))
+    data = IDENTIFIER_PROPERTY.sub(b"", data)
     # Un fabricante puede repetir el identificador en otra propiedad.
     for value in sorted((v for v in values if len(v) >= 6), key=len, reverse=True):
         data = re.sub(re.escape(value), b"<redacted>", data, flags=re.I)
