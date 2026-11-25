@@ -1,0 +1,795 @@
+Warning: Skipping "android.frameworks.cameraservice.service@2.0::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.cameraservice.service@2.1::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.displayservice@1.0::IDisplayService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.schedulerservice@1.0::ISchedulingPolicyService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.sensorservice@1.0::ISensorManager/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.stats@1.0::IStats/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.audio.effect@6.0::IEffectsFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.audio@6.0::IDevicesFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.bluetooth.audio@2.0::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.bluetooth@1.0::IBluetoothHci/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.boot@1.0::IBootControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.boot@1.1::IBootControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.camera.provider@2.4::ICameraProvider/legacy/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.contexthub@1.0::IContexthub/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gatekeeper@1.0::IGatekeeper/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@1.0::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@1.0::IGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@1.1::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@2.0::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@2.1::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.composer@2.1::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.composer@2.2::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.composer@2.3::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.composer@2.4::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.health@2.0::IHealth/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.health@2.1::IHealth/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.keymaster@4.0::IKeymasterDevice/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.light@2.0::ILight/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.memtrack@1.0::IMemtrack/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.nfc@1.0::INfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.nfc@1.1::INfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.nfc@1.2::INfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.0::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.1::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.0::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.1::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.2::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.sensors@2.0::ISensors/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.soundtrigger@2.0::ISoundTriggerHw/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.soundtrigger@2.1::ISoundTriggerHw/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.tetheroffload.config@1.0::IOffloadConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.tetheroffload.control@1.0::IOffloadControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.0::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.vibrator@1.0::IVibrator/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.vibrator@1.1::IVibrator/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.vibrator@1.2::IVibrator/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.vibrator@1.3::IVibrator/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.0::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.1::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.2::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.3::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.0::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.1::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.2::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.3::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.4::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/AtCmdFwdService": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/Uim0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/UimLpa0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/ashmem": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/atservice": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/clearkey": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/com.qualcomm.qti.uceservice": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/dpmQmiService": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/dspservice": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsrtpservice": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/legacy/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/lge_radio": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/oemhook0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/qti-default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/qti-dsp": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/qti-gpu": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/qti-hta": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/qti.ims.connectionmanagerservice": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/radio1_wifi": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/software": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/uimRemoteClient0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/uimRemoteServer0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/vppService": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/wfdhdcp": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/widevine": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/wifidisplaysession": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/wifidisplaysessionaudiotrack": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/wifidisplaysessionimagetrack": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/wifidisplaysessionvideotrack": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.net.netd@1.0::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.net.netd@1.1::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.suspend@1.0::ISystemSuspend/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.wifi.keystore@1.0::IKeystore/default": cannot be fetched from service manager (null)
+Warning: Skipping "com.dsi.ant@1.0::IAnt/default": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.dpm.api@1.0::IdpmQmi/dpmQmiService": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.imscmservice@2.0::IImsCmService/qti.ims.connectionmanagerservice": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.imscmservice@2.1::IImsCmService/qti.ims.connectionmanagerservice": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.imscmservice@2.2::IImsCmService/qti.ims.connectionmanagerservice": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.uceservice@2.0::IUceService/com.qualcomm.qti.uceservice": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.uceservice@2.1::IUceService/com.qualcomm.qti.uceservice": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice": cannot be fetched from service manager (null)
+Warning: Skipping "com.qualcomm.qti.uceservice@2.3::IUceService/com.qualcomm.qti.uceservice": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.display.color@1.0::IDisplayColor/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.display.color@1.1::IDisplayColor/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.display.color@1.2::IDisplayColor/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.display.color@1.3::IDisplayColor/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.display.config@2.0::IDisplayConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.display.postproc@1.0::IDisplayPostproc/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.gnd.hardware.payment.lgpayd@1.0::ILGPayDaemonHWService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.accessory.uevent@1.0::IAccessoryUevent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.accessory.uevent@1.1::IAccessoryUevent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.accessory.uevent@1.2::IAccessoryUevent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.accessory@1.0::IAccessory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.accessory@1.1::IAccessory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.aod.aodcommon@1.0::IAodCommon/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.aod.aodpower@1.0::IAodPower/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.aod.aodview@1.0::IAodView/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.battery@1.0::IBattery/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.biometrics.fingerprint@2.1::ILgeBiometricsFingerprint/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.bootproperty@1.0::IBootProperty/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.cameraex@1.0::ICameraEx/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.charger@1.0::ICharger/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.charger@1.1::ICharger/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.coverdisplay@1.0::ICoverDisplay/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.brightness@1.0::IDisplayBrightness/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.brightness@1.1::IDisplayBrightness/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.brightness@1.2::IDisplayBrightness/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.general@1.0::IDisplayGeneral/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.tune@1.0::IDisplayTune/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.tune@1.1::IDisplayTune/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.tune@1.2::IDisplayTune/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.display.uevent@1.0::IDisplayUevent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.dualscreen@1.0::IDualScreen/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.dualscreen@1.1::IDualScreen/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.fido@1.0::ILgeFido/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.filehandle@1.0::IFileHandle/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.ftmitem@1.0::IFtmitem/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.gnss@1.0::ILgeGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.laop@1.0::ILgeLaop/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lgatcmd@1.0::ILgAtCmd/atservice": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lgatcmd@1.0::ILgAtCmd/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lgdata@1.0::ILgData/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lgdata@1.0::ILgDataVendorRil/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lgdata@1.1::ILgData/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lgdata@1.1::ILgDataVendorRil/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.light@1.0::ILightEx/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lpwg@1.0::ILpwg/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lpwg@1.1::ILpwg/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lpwg@1.2::ILpwg/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lpwg@1.3::ILpwg/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.lpwg@1.4::ILpwg/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.msp@1.0::IMsp/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.mtv@1.0::ILgeMtv/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.payment.giftcard@1.0::IGiftcardDaemon/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.payment.mme@1.0::IMMENative/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.platform@1.0::IPlatform/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.platform@1.1::IPlatform/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.platform@1.2::IPlatform/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.powercontrol@1.0::IPowercontrol/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.powercontrol@1.1::IPowercontrol/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.powercontrol@1.2::IPowercontrol/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.powercontrol@1.3::IPowercontrol/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.powerhint.rescontrol@2.0::IResControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.property@2.0::IProperty/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.property@2.1::IProperty/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.property@2.2::IProperty/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.radio@2.0::ILgeRadio/lge_radio": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.radio@2.0::ILgeRadio/radio1_wifi": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.sdcardtray@1.0::ISDCardTray/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.soi@1.0::ISoi/default": debugging information cannot be retrieved: Status(EX_TRANSACTION_FAILED): 'FAILED_TRANSACTION: '
+Warning: Skipping "vendor.lge.hardware.soi@1.0::ISoi/default": interfaceChain fails: Status(EX_TRANSACTION_FAILED): 'FAILED_TRANSACTION: '
+Warning: Skipping "vendor.lge.hardware.storageinfo@1.0::IStorageInfo/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.storageinfo@1.1::IStorageInfo/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.thermal@1.0::IThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.thermal@1.1::IThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.thermal@1.2::IThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.touch@1.0::ITouch/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.usb.uevent@1.0::IUsbUEvent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.usb@1.0::ILgeUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.vibrator@2.0::IVibratorEx/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.vss_ims@1.0::IVssIms/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.wifi.hal@1.0::IWifiLgeHal/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.lge.hardware.wifi.hal@1.1::IWifiLgeHal/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.nxp.nxpnfc@2.0::INxpNfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.nxp.nxpnfclegacy@1.0::INxpNfcLegacy/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.data.factory@2.0::IFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.data.factory@2.1::IFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.data.factory@2.2::IFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.esepowermanager@1.0::IEsePowerManager/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.esepowermanager@1.1::IEsePowerManager/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.gnss@1.0::ILocHidlGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.gnss@1.1::ILocHidlGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.gnss@1.2::ILocHidlGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.gnss@2.0::ILocHidlGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.gnss@2.1::ILocHidlGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.gnss@3.0::ILocHidlGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.gnss@4.0::ILocHidlGnss/gnss_vendor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.bluetooth_audio@2.0::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.bluetooth_sar@1.0::IBluetoothSar/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.bluetooth_sar@1.1::IBluetoothSar/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.btconfigstore@2.0::IBTConfigStore/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.cacert@1.0::IService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.capabilityconfigstore@1.0::ICapabilityConfigStore/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.cryptfshw@1.0::ICryptfsHw/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.data.connection@1.0::IDataConnection/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.data.connection@1.1::IDataConnection/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.data.iwlan@1.0::IIWlan/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.data.latency@1.0::ILinkLatency/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.fm@1.0::IFmHci/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.iop@2.0::IIop/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.perf@2.0::IPerf/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.perf@2.1::IPerf/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.perf@2.2::IPerf/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.qseecom@1.0::IQSEECom/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.qteeconnector@1.0::IAppConnector/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.qteeconnector@1.0::IGPAppConnector/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.am@1.0::IQcRilAudio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.atcmdfwd@1.0::IAtCmdFwd/AtCmdFwdService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.ims@1.0::IImsRadio/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.ims@1.1::IImsRadio/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.ims@1.2::IImsRadio/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.ims@1.3::IImsRadio/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.ims@1.4::IImsRadio/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.ims@1.5::IImsRadio/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.ims@1.6::IImsRadio/imsradio0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.lpa@1.0::IUimLpa/UimLpa0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.qcrilhook@1.0::IQtiOemHook/oemhook0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.qtiradio@1.0::IQtiRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.qtiradio@2.0::IQtiRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.qtiradio@2.1::IQtiRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.qtiradio@2.2::IQtiRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.qtiradio@2.3::IQtiRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.qtiradio@2.4::IQtiRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.uim@1.0::IUim/Uim0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.uim@1.1::IUim/Uim0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.uim@1.2::IUim/Uim0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.uim_remote_client@1.0::IUimRemoteServiceClient/uimRemoteClient0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.radio.uim_remote_server@1.0::IUimRemoteServiceServer/uimRemoteServer0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.seccam@1.0::ISecCam/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.sensorscalibrate@1.0::ISensorsCalibrate/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.servicetracker@1.0::IServicetracker/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.servicetracker@1.1::IServicetracker/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.servicetracker@1.2::IServicetracker/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.soter@1.0::ISoter/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.tui_comm@1.0::ITuiComm/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.vpp@1.1::IHidlVppService/vppService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.vpp@1.2::IHidlVppService/vppService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.vpp@1.3::IHidlVppService/vppService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySession/wifidisplaysession": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySessionAudioTrack/wifidisplaysessionaudiotrack": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySessionImageTrack/wifidisplaysessionimagetrack": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySessionVideoTrack/wifidisplaysessionvideotrack": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.ims.callinfo@1.0::IService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.ims.factory@1.0::IImsFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.imsrtpservice@3.0::IRTPService/imsrtpservice": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.qti.power.pasrmanager@1.0::IPasrManager/default": cannot be fetched from service manager (null)
+| All binderized services (registered with hwservicemanager)
+VINTF R Interface                                                                                              Thread Use Server Clients
+FM    ? android.frameworks.cameraservice.service@2.0::ICameraService/default                                   N/A        N/A    
+FM    ? android.frameworks.cameraservice.service@2.1::ICameraService/default                                   N/A        N/A    
+FM    ? android.frameworks.displayservice@1.0::IDisplayService/default                                         N/A        N/A    
+DC,FM ? android.frameworks.schedulerservice@1.0::ISchedulingPolicyService/default                              N/A        N/A    
+DC,FM ? android.frameworks.sensorservice@1.0::ISensorManager/default                                           N/A        N/A    
+FM    ? android.frameworks.stats@1.0::IStats/default                                                           N/A        N/A    
+DM,FC Y android.hardware.atrace@1.0::IAtraceDevice/default                                                     N/A        N/A    
+DM,FC ? android.hardware.audio.effect@6.0::IEffectsFactory/default                                             N/A        N/A    
+DM,FC ? android.hardware.audio@6.0::IDevicesFactory/default                                                    N/A        N/A    
+DM,FC ? android.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default                            N/A        N/A    
+DM,FC ? android.hardware.bluetooth.audio@2.0::IBluetoothAudioProvidersFactory/default                          N/A        N/A    
+DM,FC ? android.hardware.bluetooth@1.0::IBluetoothHci/default                                                  N/A        N/A    
+DM,FC ? android.hardware.boot@1.0::IBootControl/default                                                        N/A        N/A    
+DM,FC ? android.hardware.boot@1.1::IBootControl/default                                                        N/A        N/A    
+DM,FC ? android.hardware.camera.provider@2.4::ICameraProvider/legacy/0                                         N/A        N/A    
+DM    Y android.hardware.cas@1.0::IMediaCasService/default                                                     N/A        N/A    
+DM,FC Y android.hardware.cas@1.1::IMediaCasService/default                                                     N/A        N/A    
+DM,FC Y android.hardware.cas@1.2::IMediaCasService/default                                                     N/A        N/A    
+DM    Y android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default                                       N/A        N/A    
+DM,FC Y android.hardware.configstore@1.1::ISurfaceFlingerConfigs/default                                       N/A        N/A    
+DM,FC ? android.hardware.contexthub@1.0::IContexthub/default                                                   N/A        N/A    
+DM,FC Y android.hardware.drm@1.0::ICryptoFactory/clearkey                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.0::ICryptoFactory/wfdhdcp                                                       N/A        N/A    
+DM,FC Y android.hardware.drm@1.0::ICryptoFactory/widevine                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.0::IDrmFactory/clearkey                                                         N/A        N/A    
+DM,FC Y android.hardware.drm@1.0::IDrmFactory/wfdhdcp                                                          N/A        N/A    
+DM,FC Y android.hardware.drm@1.0::IDrmFactory/widevine                                                         N/A        N/A    
+DM,FC Y android.hardware.drm@1.1::ICryptoFactory/clearkey                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.1::ICryptoFactory/wfdhdcp                                                       N/A        N/A    
+DM,FC Y android.hardware.drm@1.1::ICryptoFactory/widevine                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.1::IDrmFactory/clearkey                                                         N/A        N/A    
+DM,FC Y android.hardware.drm@1.1::IDrmFactory/wfdhdcp                                                          N/A        N/A    
+DM,FC Y android.hardware.drm@1.1::IDrmFactory/widevine                                                         N/A        N/A    
+DM,FC Y android.hardware.drm@1.2::ICryptoFactory/clearkey                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.2::ICryptoFactory/wfdhdcp                                                       N/A        N/A    
+DM,FC Y android.hardware.drm@1.2::ICryptoFactory/widevine                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.2::IDrmFactory/clearkey                                                         N/A        N/A    
+DM,FC Y android.hardware.drm@1.2::IDrmFactory/wfdhdcp                                                          N/A        N/A    
+DM,FC Y android.hardware.drm@1.2::IDrmFactory/widevine                                                         N/A        N/A    
+DM,FC Y android.hardware.drm@1.3::ICryptoFactory/clearkey                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.3::ICryptoFactory/wfdhdcp                                                       N/A        N/A    
+DM,FC Y android.hardware.drm@1.3::ICryptoFactory/widevine                                                      N/A        N/A    
+DM,FC Y android.hardware.drm@1.3::IDrmFactory/clearkey                                                         N/A        N/A    
+DM,FC Y android.hardware.drm@1.3::IDrmFactory/wfdhdcp                                                          N/A        N/A    
+DM,FC Y android.hardware.drm@1.3::IDrmFactory/widevine                                                         N/A        N/A    
+DM,FC ? android.hardware.gatekeeper@1.0::IGatekeeper/default                                                   N/A        N/A    
+DM,FC ? android.hardware.gnss@1.0::IGnss/default                                                               N/A        N/A    
+DM,FC ? android.hardware.gnss@1.0::IGnss/gnss_vendor                                                           N/A        N/A    
+DM,FC ? android.hardware.gnss@1.1::IGnss/default                                                               N/A        N/A    
+DM,FC ? android.hardware.gnss@2.0::IGnss/default                                                               N/A        N/A    
+DM,FC ? android.hardware.gnss@2.1::IGnss/default                                                               N/A        N/A    
+DM,FC Y android.hardware.graphics.allocator@3.0::IAllocator/default                                            N/A        N/A    
+DM,FC Y android.hardware.graphics.allocator@4.0::IAllocator/default                                            N/A        N/A    
+DM,FC ? android.hardware.graphics.composer@2.1::IComposer/default                                              N/A        N/A    
+DM,FC ? android.hardware.graphics.composer@2.2::IComposer/default                                              N/A        N/A    
+DM,FC ? android.hardware.graphics.composer@2.3::IComposer/default                                              N/A        N/A    
+DM,FC ? android.hardware.graphics.composer@2.4::IComposer/default                                              N/A        N/A    
+DM,FC ? android.hardware.health@2.0::IHealth/default                                                           N/A        N/A    
+DM,FC ? android.hardware.health@2.1::IHealth/default                                                           N/A        N/A    
+DM,FC ? android.hardware.keymaster@4.0::IKeymasterDevice/default                                               N/A        N/A    
+DM,FC ? android.hardware.light@2.0::ILight/default                                                             N/A        N/A    
+DM,FC Y android.hardware.media.c2@1.0::IComponentStore/default                                                 N/A        N/A    
+FM,FC Y android.hardware.media.c2@1.0::IComponentStore/software                                                N/A        N/A    
+FM    Y android.hardware.media.c2@1.1::IComponentStore/software                                                N/A        N/A    
+DM,FC Y android.hardware.media.omx@1.0::IOmx/default                                                           N/A        N/A    
+DM,FC Y android.hardware.media.omx@1.0::IOmxStore/default                                                      N/A        N/A    
+DM,FC ? android.hardware.memtrack@1.0::IMemtrack/default                                                       N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.0::IDevice/qti-default                                               N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.0::IDevice/qti-dsp                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.0::IDevice/qti-gpu                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.0::IDevice/qti-hta                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.1::IDevice/qti-default                                               N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.1::IDevice/qti-dsp                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.1::IDevice/qti-gpu                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.1::IDevice/qti-hta                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.2::IDevice/qti-default                                               N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.2::IDevice/qti-dsp                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.2::IDevice/qti-gpu                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.2::IDevice/qti-hta                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.3::IDevice/qti-default                                               N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.3::IDevice/qti-dsp                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.3::IDevice/qti-gpu                                                   N/A        N/A    
+DM,FC Y android.hardware.neuralnetworks@1.3::IDevice/qti-hta                                                   N/A        N/A    
+DM,FC ? android.hardware.nfc@1.0::INfc/default                                                                 N/A        N/A    
+DM    ? android.hardware.nfc@1.1::INfc/default                                                                 N/A        N/A    
+DM,FC ? android.hardware.nfc@1.2::INfc/default                                                                 N/A        N/A    
+DM,FC ? android.hardware.radio.config@1.0::IRadioConfig/default                                                N/A        N/A    
+DM,FC ? android.hardware.radio.config@1.1::IRadioConfig/default                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.0::IRadio/slot1                                                               N/A        N/A    
+DM,FC ? android.hardware.radio@1.0::ISap/slot1                                                                 N/A        N/A    
+DM,FC ? android.hardware.radio@1.1::IRadio/slot1                                                               N/A        N/A    
+DM,FC ? android.hardware.radio@1.1::ISap/slot1                                                                 N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/slot1                                                               N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::ISap/slot1                                                                 N/A        N/A    
+DM,FC ? android.hardware.radio@1.3::IRadio/slot1                                                               N/A        N/A    
+DM,FC ? android.hardware.radio@1.4::IRadio/slot1                                                               N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.0::ISecureElement/SIM1                                               N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.1::ISecureElement/SIM1                                               N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.2::ISecureElement/SIM1                                               N/A        N/A    
+DM,FC ? android.hardware.sensors@2.0::ISensors/default                                                         N/A        N/A    
+DM,FC ? android.hardware.soundtrigger@2.0::ISoundTriggerHw/default                                             N/A        N/A    
+DM,FC ? android.hardware.soundtrigger@2.1::ISoundTriggerHw/default                                             N/A        N/A    
+DM,FC ? android.hardware.tetheroffload.config@1.0::IOffloadConfig/default                                      N/A        N/A    
+DM,FC ? android.hardware.tetheroffload.control@1.0::IOffloadControl/default                                    N/A        N/A    
+DM,FC ? android.hardware.usb@1.0::IUsb/default                                                                 N/A        N/A    
+DM,FC ? android.hardware.vibrator@1.0::IVibrator/default                                                       N/A        N/A    
+DM,FC ? android.hardware.vibrator@1.1::IVibrator/default                                                       N/A        N/A    
+DM,FC ? android.hardware.vibrator@1.2::IVibrator/default                                                       N/A        N/A    
+DM,FC ? android.hardware.vibrator@1.3::IVibrator/default                                                       N/A        N/A    
+DM,FC ? android.hardware.wifi.supplicant@1.0::ISupplicant/default                                              N/A        N/A    
+DM,FC ? android.hardware.wifi.supplicant@1.1::ISupplicant/default                                              N/A        N/A    
+DM,FC ? android.hardware.wifi.supplicant@1.2::ISupplicant/default                                              N/A        N/A    
+DM,FC ? android.hardware.wifi.supplicant@1.3::ISupplicant/default                                              N/A        N/A    
+DM,FC ? android.hardware.wifi@1.0::IWifi/default                                                               N/A        N/A    
+DM,FC ? android.hardware.wifi@1.1::IWifi/default                                                               N/A        N/A    
+DM,FC ? android.hardware.wifi@1.2::IWifi/default                                                               N/A        N/A    
+DM,FC ? android.hardware.wifi@1.3::IWifi/default                                                               N/A        N/A    
+DM,FC ? android.hardware.wifi@1.4::IWifi/default                                                               N/A        N/A    
+DC,FM Y android.hidl.allocator@1.0::IAllocator/ashmem                                                          N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/AtCmdFwdService                                                           N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/SIM1                                                                      N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/Uim0                                                                      N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/UimLpa0                                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/ashmem                                                                    N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/atservice                                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/clearkey                                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/com.qualcomm.qti.uceservice                                               N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/default                                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/dpmQmiService                                                             N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/dspservice                                                                N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/gnss_vendor                                                               N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/imsradio0                                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/imsrtpservice                                                             N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/legacy/0                                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/lge_radio                                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/oemhook0                                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/qti-default                                                               N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/qti-dsp                                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/qti-gpu                                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/qti-hta                                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/qti.ims.connectionmanagerservice                                          N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/radio1_wifi                                                               N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/slot1                                                                     N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/software                                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/uimRemoteClient0                                                          N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/uimRemoteServer0                                                          N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/vppService                                                                N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/wfdhdcp                                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/widevine                                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/wifidisplaysession                                                        N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/wifidisplaysessionaudiotrack                                              N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/wifidisplaysessionimagetrack                                              N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/wifidisplaysessionvideotrack                                              N/A        N/A    
+DC,FM Y android.hidl.manager@1.0::IServiceManager/default                                                      N/A        N/A    
+FM    Y android.hidl.manager@1.1::IServiceManager/default                                                      N/A        N/A    
+FM    Y android.hidl.manager@1.2::IServiceManager/default                                                      N/A        N/A    
+DC,FM Y android.hidl.token@1.0::ITokenManager/default                                                          N/A        N/A    
+FM    ? android.system.net.netd@1.0::INetd/default                                                             N/A        N/A    
+FM    ? android.system.net.netd@1.1::INetd/default                                                             N/A        N/A    
+FM    ? android.system.suspend@1.0::ISystemSuspend/default                                                     N/A        N/A    
+DC,FM ? android.system.wifi.keystore@1.0::IKeystore/default                                                    N/A        N/A    
+DM,FC ? com.dsi.ant@1.0::IAnt/default                                                                          N/A        N/A    
+DM,FC ? com.qualcomm.qti.dpm.api@1.0::IdpmQmi/dpmQmiService                                                    N/A        N/A    
+DM,FC ? com.qualcomm.qti.imscmservice@2.0::IImsCmService/qti.ims.connectionmanagerservice                      N/A        N/A    
+DM,FC ? com.qualcomm.qti.imscmservice@2.1::IImsCmService/qti.ims.connectionmanagerservice                      N/A        N/A    
+DM,FC ? com.qualcomm.qti.imscmservice@2.2::IImsCmService/qti.ims.connectionmanagerservice                      N/A        N/A    
+DM,FC ? com.qualcomm.qti.uceservice@2.0::IUceService/com.qualcomm.qti.uceservice                               N/A        N/A    
+DM,FC ? com.qualcomm.qti.uceservice@2.1::IUceService/com.qualcomm.qti.uceservice                               N/A        N/A    
+DM,FC ? com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice                               N/A        N/A    
+DM,FC ? com.qualcomm.qti.uceservice@2.3::IUceService/com.qualcomm.qti.uceservice                               N/A        N/A    
+DM,FC ? vendor.display.color@1.0::IDisplayColor/default                                                        N/A        N/A    
+DM,FC ? vendor.display.color@1.1::IDisplayColor/default                                                        N/A        N/A    
+DM,FC ? vendor.display.color@1.2::IDisplayColor/default                                                        N/A        N/A    
+DM,FC ? vendor.display.color@1.3::IDisplayColor/default                                                        N/A        N/A    
+DM,FC ? vendor.display.config@2.0::IDisplayConfig/default                                                      N/A        N/A    
+DM,FC ? vendor.display.postproc@1.0::IDisplayPostproc/default                                                  N/A        N/A    
+DM,FC ? vendor.gnd.hardware.payment.lgpayd@1.0::ILGPayDaemonHWService/default                                  N/A        N/A    
+DM    ? vendor.lge.hardware.accessory.uevent@1.0::IAccessoryUevent/default                                     N/A        N/A    
+DM    ? vendor.lge.hardware.accessory.uevent@1.1::IAccessoryUevent/default                                     N/A        N/A    
+DM,FC ? vendor.lge.hardware.accessory.uevent@1.2::IAccessoryUevent/default                                     N/A        N/A    
+DM    ? vendor.lge.hardware.accessory@1.0::IAccessory/default                                                  N/A        N/A    
+DM,FC ? vendor.lge.hardware.accessory@1.1::IAccessory/default                                                  N/A        N/A    
+DM,FC ? vendor.lge.hardware.aod.aodcommon@1.0::IAodCommon/default                                              N/A        N/A    
+DM,FC ? vendor.lge.hardware.aod.aodpower@1.0::IAodPower/default                                                N/A        N/A    
+DM,FC ? vendor.lge.hardware.aod.aodview@1.0::IAodView/default                                                  N/A        N/A    
+DM,FC ? vendor.lge.hardware.battery@1.0::IBattery/default                                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.biometrics.fingerprint@2.1::ILgeBiometricsFingerprint/default                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.bootproperty@1.0::IBootProperty/default                                            N/A        N/A    
+DM,FC ? vendor.lge.hardware.cameraex@1.0::ICameraEx/default                                                    N/A        N/A    
+DM    ? vendor.lge.hardware.charger@1.0::ICharger/default                                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.charger@1.1::ICharger/default                                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.coverdisplay@1.0::ICoverDisplay/default                                            N/A        N/A    
+DM    ? vendor.lge.hardware.display.brightness@1.0::IDisplayBrightness/default                                 N/A        N/A    
+DM    ? vendor.lge.hardware.display.brightness@1.1::IDisplayBrightness/default                                 N/A        N/A    
+DM,FC ? vendor.lge.hardware.display.brightness@1.2::IDisplayBrightness/default                                 N/A        N/A    
+DM,FC ? vendor.lge.hardware.display.general@1.0::IDisplayGeneral/default                                       N/A        N/A    
+DM    ? vendor.lge.hardware.display.tune@1.0::IDisplayTune/default                                             N/A        N/A    
+DM    ? vendor.lge.hardware.display.tune@1.1::IDisplayTune/default                                             N/A        N/A    
+DM,FC ? vendor.lge.hardware.display.tune@1.2::IDisplayTune/default                                             N/A        N/A    
+DM,FC ? vendor.lge.hardware.display.uevent@1.0::IDisplayUevent/default                                         N/A        N/A    
+DM    ? vendor.lge.hardware.dualscreen@1.0::IDualScreen/default                                                N/A        N/A    
+DM,FC ? vendor.lge.hardware.dualscreen@1.1::IDualScreen/default                                                N/A        N/A    
+DM,FC ? vendor.lge.hardware.fido@1.0::ILgeFido/default                                                         N/A        N/A    
+DC,FM ? vendor.lge.hardware.filehandle@1.0::IFileHandle/default                                                N/A        N/A    
+DM,FC ? vendor.lge.hardware.ftmitem@1.0::IFtmitem/default                                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.gnss@1.0::ILgeGnss/default                                                         N/A        N/A    
+DM,FC ? vendor.lge.hardware.laop@1.0::ILgeLaop/default                                                         N/A        N/A    
+FM    ? vendor.lge.hardware.lgatcmd@1.0::ILgAtCmd/atservice                                                    N/A        N/A    
+DM,FC ? vendor.lge.hardware.lgatcmd@1.0::ILgAtCmd/default                                                      N/A        N/A    
+DM    ? vendor.lge.hardware.lgdata@1.0::ILgData/default                                                        N/A        N/A    
+DM    ? vendor.lge.hardware.lgdata@1.0::ILgDataVendorRil/default                                               N/A        N/A    
+DM,FC ? vendor.lge.hardware.lgdata@1.1::ILgData/default                                                        N/A        N/A    
+DM,FC ? vendor.lge.hardware.lgdata@1.1::ILgDataVendorRil/default                                               N/A        N/A    
+DM,FC ? vendor.lge.hardware.light@1.0::ILightEx/default                                                        N/A        N/A    
+DM    ? vendor.lge.hardware.lpwg@1.0::ILpwg/default                                                            N/A        N/A    
+DM    ? vendor.lge.hardware.lpwg@1.1::ILpwg/default                                                            N/A        N/A    
+DM    ? vendor.lge.hardware.lpwg@1.2::ILpwg/default                                                            N/A        N/A    
+DM    ? vendor.lge.hardware.lpwg@1.3::ILpwg/default                                                            N/A        N/A    
+DM,FC ? vendor.lge.hardware.lpwg@1.4::ILpwg/default                                                            N/A        N/A    
+DM,FC ? vendor.lge.hardware.msp@1.0::IMsp/default                                                              N/A        N/A    
+DM,FC ? vendor.lge.hardware.mtv@1.0::ILgeMtv/default                                                           N/A        N/A    
+DM,FC ? vendor.lge.hardware.payment.giftcard@1.0::IGiftcardDaemon/default                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.payment.mme@1.0::IMMENative/default                                                N/A        N/A    
+DM,FC ? vendor.lge.hardware.platform@1.0::IPlatform/default                                                    N/A        N/A    
+DM,FC ? vendor.lge.hardware.platform@1.1::IPlatform/default                                                    N/A        N/A    
+DM,FC ? vendor.lge.hardware.platform@1.2::IPlatform/default                                                    N/A        N/A    
+DM,FC ? vendor.lge.hardware.powercontrol@1.0::IPowercontrol/default                                            N/A        N/A    
+DM,FC ? vendor.lge.hardware.powercontrol@1.1::IPowercontrol/default                                            N/A        N/A    
+DM,FC ? vendor.lge.hardware.powercontrol@1.2::IPowercontrol/default                                            N/A        N/A    
+DM,FC ? vendor.lge.hardware.powercontrol@1.3::IPowercontrol/default                                            N/A        N/A    
+DM,FC ? vendor.lge.hardware.powerhint.rescontrol@2.0::IResControl/default                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.property@2.0::IProperty/default                                                    N/A        N/A    
+DM,FC ? vendor.lge.hardware.property@2.1::IProperty/default                                                    N/A        N/A    
+DM,FC ? vendor.lge.hardware.property@2.2::IProperty/default                                                    N/A        N/A    
+DM,FC ? vendor.lge.hardware.radio@2.0::ILgeRadio/lge_radio                                                     N/A        N/A    
+DM,FC ? vendor.lge.hardware.radio@2.0::ILgeRadio/radio1_wifi                                                   N/A        N/A    
+DM,FC ? vendor.lge.hardware.sdcardtray@1.0::ISDCardTray/default                                                N/A        N/A    
+DM,FC ? vendor.lge.hardware.soi@1.0::ISoi/default                                                              N/A        N/A    
+DM    ? vendor.lge.hardware.storageinfo@1.0::IStorageInfo/default                                              N/A        N/A    
+DM,FC ? vendor.lge.hardware.storageinfo@1.1::IStorageInfo/default                                              N/A        N/A    
+DM,FC ? vendor.lge.hardware.thermal@1.0::IThermal/default                                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.thermal@1.1::IThermal/default                                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.thermal@1.2::IThermal/default                                                      N/A        N/A    
+DM,FC ? vendor.lge.hardware.touch@1.0::ITouch/default                                                          N/A        N/A    
+DM,FC ? vendor.lge.hardware.usb.uevent@1.0::IUsbUEvent/default                                                 N/A        N/A    
+DM,FC ? vendor.lge.hardware.usb@1.0::ILgeUsb/default                                                           N/A        N/A    
+DM,FC ? vendor.lge.hardware.vibrator@2.0::IVibratorEx/default                                                  N/A        N/A    
+DM,FC ? vendor.lge.hardware.vss_ims@1.0::IVssIms/default                                                       N/A        N/A    
+DM    ? vendor.lge.hardware.wifi.hal@1.0::IWifiLgeHal/default                                                  N/A        N/A    
+DM,FC ? vendor.lge.hardware.wifi.hal@1.1::IWifiLgeHal/default                                                  N/A        N/A    
+DM,FC ? vendor.nxp.nxpnfc@2.0::INxpNfc/default                                                                 N/A        N/A    
+DM,FC ? vendor.nxp.nxpnfclegacy@1.0::INxpNfcLegacy/default                                                     N/A        N/A    
+DM,FC ? vendor.qti.data.factory@2.0::IFactory/default                                                          N/A        N/A    
+DM,FC ? vendor.qti.data.factory@2.1::IFactory/default                                                          N/A        N/A    
+DM,FC ? vendor.qti.data.factory@2.2::IFactory/default                                                          N/A        N/A    
+DM,FC ? vendor.qti.esepowermanager@1.0::IEsePowerManager/default                                               N/A        N/A    
+DM,FC ? vendor.qti.esepowermanager@1.1::IEsePowerManager/default                                               N/A        N/A    
+DM,FC ? vendor.qti.gnss@1.0::ILocHidlGnss/gnss_vendor                                                          N/A        N/A    
+DM,FC ? vendor.qti.gnss@1.1::ILocHidlGnss/gnss_vendor                                                          N/A        N/A    
+DM,FC ? vendor.qti.gnss@1.2::ILocHidlGnss/gnss_vendor                                                          N/A        N/A    
+DM,FC ? vendor.qti.gnss@2.0::ILocHidlGnss/gnss_vendor                                                          N/A        N/A    
+DM,FC ? vendor.qti.gnss@2.1::ILocHidlGnss/gnss_vendor                                                          N/A        N/A    
+DM,FC ? vendor.qti.gnss@3.0::ILocHidlGnss/gnss_vendor                                                          N/A        N/A    
+DM,FC ? vendor.qti.gnss@4.0::ILocHidlGnss/gnss_vendor                                                          N/A        N/A    
+DM,FC ? vendor.qti.hardware.bluetooth_audio@2.0::IBluetoothAudioProvidersFactory/default                       N/A        N/A    
+DM,FC ? vendor.qti.hardware.bluetooth_sar@1.0::IBluetoothSar/default                                           N/A        N/A    
+DM,FC ? vendor.qti.hardware.bluetooth_sar@1.1::IBluetoothSar/default                                           N/A        N/A    
+DM,FC ? vendor.qti.hardware.btconfigstore@2.0::IBTConfigStore/default                                          N/A        N/A    
+DM,FC ? vendor.qti.hardware.cacert@1.0::IService/default                                                       N/A        N/A    
+DM,FC ? vendor.qti.hardware.capabilityconfigstore@1.0::ICapabilityConfigStore/default                          N/A        N/A    
+DM,FC ? vendor.qti.hardware.cryptfshw@1.0::ICryptfsHw/default                                                  N/A        N/A    
+DM,FC ? vendor.qti.hardware.data.connection@1.0::IDataConnection/slot1                                         N/A        N/A    
+DM,FC ? vendor.qti.hardware.data.connection@1.1::IDataConnection/slot1                                         N/A        N/A    
+DM,FC ? vendor.qti.hardware.data.iwlan@1.0::IIWlan/slot1                                                       N/A        N/A    
+DM,FC ? vendor.qti.hardware.data.latency@1.0::ILinkLatency/default                                             N/A        N/A    
+DM,FC Y vendor.qti.hardware.display.allocator@3.0::IQtiAllocator/default                                       N/A        N/A    
+DM,FC Y vendor.qti.hardware.display.allocator@4.0::IQtiAllocator/default                                       N/A        N/A    
+DM,FC Y vendor.qti.hardware.dsp@1.0::IDspService/dspservice                                                    N/A        N/A    
+DM,FC ? vendor.qti.hardware.fm@1.0::IFmHci/default                                                             N/A        N/A    
+DM,FC ? vendor.qti.hardware.iop@2.0::IIop/default                                                              N/A        N/A    
+DM,FC ? vendor.qti.hardware.perf@2.0::IPerf/default                                                            N/A        N/A    
+DM,FC ? vendor.qti.hardware.perf@2.1::IPerf/default                                                            N/A        N/A    
+DM,FC ? vendor.qti.hardware.perf@2.2::IPerf/default                                                            N/A        N/A    
+DM,FC ? vendor.qti.hardware.qseecom@1.0::IQSEECom/default                                                      N/A        N/A    
+DM,FC ? vendor.qti.hardware.qteeconnector@1.0::IAppConnector/default                                           N/A        N/A    
+DM,FC ? vendor.qti.hardware.qteeconnector@1.0::IGPAppConnector/default                                         N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.am@1.0::IQcRilAudio/slot1                                                    N/A        N/A    
+FM    ? vendor.qti.hardware.radio.atcmdfwd@1.0::IAtCmdFwd/AtCmdFwdService                                      N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.ims@1.0::IImsRadio/imsradio0                                                 N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.ims@1.1::IImsRadio/imsradio0                                                 N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.ims@1.2::IImsRadio/imsradio0                                                 N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.ims@1.3::IImsRadio/imsradio0                                                 N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.ims@1.4::IImsRadio/imsradio0                                                 N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.ims@1.5::IImsRadio/imsradio0                                                 N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.ims@1.6::IImsRadio/imsradio0                                                 N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.lpa@1.0::IUimLpa/UimLpa0                                                     N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.qcrilhook@1.0::IQtiOemHook/oemhook0                                          N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.qtiradio@1.0::IQtiRadio/slot1                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.qtiradio@2.0::IQtiRadio/slot1                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.qtiradio@2.1::IQtiRadio/slot1                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.qtiradio@2.2::IQtiRadio/slot1                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.qtiradio@2.3::IQtiRadio/slot1                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.qtiradio@2.4::IQtiRadio/slot1                                                N/A        N/A    
+DM    ? vendor.qti.hardware.radio.uim@1.0::IUim/Uim0                                                           N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.uim@1.1::IUim/Uim0                                                           N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.uim@1.2::IUim/Uim0                                                           N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.uim_remote_client@1.0::IUimRemoteServiceClient/uimRemoteClient0              N/A        N/A    
+DM,FC ? vendor.qti.hardware.radio.uim_remote_server@1.0::IUimRemoteServiceServer/uimRemoteServer0              N/A        N/A    
+DM,FC ? vendor.qti.hardware.seccam@1.0::ISecCam/default                                                        N/A        N/A    
+DM,FC ? vendor.qti.hardware.sensorscalibrate@1.0::ISensorsCalibrate/default                                    N/A        N/A    
+DM,FC ? vendor.qti.hardware.servicetracker@1.0::IServicetracker/default                                        N/A        N/A    
+DM,FC ? vendor.qti.hardware.servicetracker@1.1::IServicetracker/default                                        N/A        N/A    
+DM,FC ? vendor.qti.hardware.servicetracker@1.2::IServicetracker/default                                        N/A        N/A    
+DM,FC ? vendor.qti.hardware.soter@1.0::ISoter/default                                                          N/A        N/A    
+DM,FC ? vendor.qti.hardware.tui_comm@1.0::ITuiComm/default                                                     N/A        N/A    
+DM,FC ? vendor.qti.hardware.vpp@1.1::IHidlVppService/vppService                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.vpp@1.2::IHidlVppService/vppService                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.vpp@1.3::IHidlVppService/vppService                                                N/A        N/A    
+DM,FC ? vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySession/wifidisplaysession                     N/A        N/A    
+DM,FC ? vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySessionAudioTrack/wifidisplaysessionaudiotrack N/A        N/A    
+DM,FC ? vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySessionImageTrack/wifidisplaysessionimagetrack N/A        N/A    
+DM,FC ? vendor.qti.hardware.wifidisplaysession@1.0::IWifiDisplaySessionVideoTrack/wifidisplaysessionvideotrack N/A        N/A    
+DM,FC ? vendor.qti.ims.callinfo@1.0::IService/default                                                          N/A        N/A    
+DM,FC ? vendor.qti.ims.factory@1.0::IImsFactory/default                                                        N/A        N/A    
+DM,FC ? vendor.qti.imsrtpservice@3.0::IRTPService/imsrtpservice                                                N/A        N/A    
+DM,FC ? vendor.qti.power.pasrmanager@1.0::IPasrManager/default                                                 N/A        N/A    
+
+| All interfaces that getService() has ever returned as a passthrough interface;
+| PIDs / processes shown below might be inaccurate because the process
+| might have relinquished the interface or might have died.
+| The Server / Server CMD column can be ignored.
+| The Clients / Clients CMD column shows all process that have ever dlopen'ed 
+| the library and successfully fetched the passthrough implementation.
+VINTF R Interface                                                                        Thread Use Server Clients
+FC    ? android.hardware.audio.effect@6.0::IEffectsFactory/default                       N/A        870    870
+FC    ? android.hardware.audio@6.0::IDevicesFactory/default                              N/A        870    870
+FC    ? android.hardware.bluetooth.audio@2.0::IBluetoothAudioProvidersFactory/default    N/A        870    870
+FC    ? android.hardware.bluetooth@1.0::IBluetoothHci/default                            N/A        874    874
+FC    ? android.hardware.boot@1.1::IBootControl/default                                  N/A        720    720
+FC    ? android.hardware.camera.provider@2.4::ICameraProvider/legacy/0                   N/A        876    876
+FC    ? android.hardware.contexthub@1.0::IContexthub/default                             N/A        2282   2282
+FC    ? android.hardware.gatekeeper@1.0::IGatekeeper/default                             N/A        721    721
+FC    ? android.hardware.gnss@2.1::IGnss/default                                         N/A        881    881
+FC    ? android.hardware.health@2.1::IHealth/default                                     N/A        884    884
+FC    ? android.hardware.memtrack@1.0::IMemtrack/default                                 N/A        886    886
+DM,FC ? android.hardware.renderscript@1.0::IDevice/default                               N/A        N/A    3335
+FC    ? android.hardware.soundtrigger@2.1::ISoundTriggerHw/default                       N/A        870    870
+DC,FM ? android.hidl.memory@1.0::IMapper/ashmem                                          N/A        N/A    870 1019 1168 1415 1465 2772 11754 12384 19077 20160
+FC    ? com.dsi.ant@1.0::IAnt/default                                                    N/A        874    874
+FC    ? vendor.gnd.hardware.payment.lgpayd@1.0::ILGPayDaemonHWService/default            N/A        897    897
+FC    ? vendor.lge.hardware.accessory.uevent@1.2::IAccessoryUevent/default               N/A        898    898
+FC    ? vendor.lge.hardware.bootproperty@1.0::IBootProperty/default                      N/A        905    905
+FC    ? vendor.lge.hardware.display.uevent@1.0::IDisplayUevent/default                   N/A        920    920
+FC    ? vendor.lge.hardware.fido@1.0::ILgeFido/default                                   N/A        922    922
+FC    ? vendor.lge.hardware.ftmitem@1.0::IFtmitem/default                                N/A        926    926
+FC    ? vendor.lge.hardware.gnss@1.0::ILgeGnss/default                                   N/A        928    928
+FC    ? vendor.lge.hardware.laop@1.0::ILgeLaop/default                                   N/A        931    931
+FC    ? vendor.lge.hardware.lgatcmd@1.0::ILgAtCmd/default                                N/A        932    932
+FC    ? vendor.lge.hardware.light@1.0::ILightEx/default                                  N/A        940    940
+FC    ? vendor.lge.hardware.msp@1.0::IMsp/default                                        N/A        954    954
+FC    ? vendor.lge.hardware.payment.giftcard@1.0::IGiftcardDaemon/default                N/A        961    961
+FC    ? vendor.lge.hardware.payment.mme@1.0::IMMENative/default                          N/A        962    962
+FC    ? vendor.lge.hardware.sdcardtray@1.0::ISDCardTray/default                          N/A        978    978
+FC    ? vendor.lge.hardware.soi@1.0::ISoi/default                                        N/A        980    980
+FC    ? vendor.lge.hardware.storageinfo@1.1::IStorageInfo/default                        N/A        981    981
+FC    ? vendor.lge.hardware.usb.uevent@1.0::IUsbUEvent/default                           N/A        984    984
+FC    ? vendor.lge.hardware.vibrator@2.0::IVibratorEx/default                            N/A        985    985
+FC    ? vendor.lge.hardware.vss_ims@1.0::IVssIms/default                                 N/A        986    986
+FC    ? vendor.qti.esepowermanager@1.1::IEsePowerManager/default                         N/A        988    988
+FC    ? vendor.qti.gnss@4.0::ILocHidlGnss/gnss_vendor                                    N/A        881    881
+FC    ? vendor.qti.hardware.bluetooth_audio@2.0::IBluetoothAudioProvidersFactory/default N/A        870    870
+FC    ? vendor.qti.hardware.bluetooth_audio@2.1::IBluetoothAudioProvidersFactory/default N/A        870    870
+FC    ? vendor.qti.hardware.bluetooth_sar@1.1::IBluetoothSar/default                     N/A        874    874
+FC    ? vendor.qti.hardware.btconfigstore@2.0::IBTConfigStore/default                    N/A        874    874
+FC    ? vendor.qti.hardware.capabilityconfigstore@1.0::ICapabilityConfigStore/default    N/A        989    989
+DM,FC ? vendor.qti.hardware.display.mapper@3.0::IQtiMapper/default                       N/A        N/A    1168 2581 2772 3335 5455 5895 9407 10014 10048 10828 10954 13972 14017 15661 16417 18683 19051 19077 20160 20378 20548 20839 27305 28670
+DM,FC ? vendor.qti.hardware.display.mapper@4.0::IQtiMapper/default                       N/A        N/A    876 882 1032 1168 1332 1415 1465 1506 2581 2772 3335 5455 5895 7766 9407 10014 10048 10149 10828 10954 11314 13972 14017 15661 16372 16417 17799 18683 19051 19077 19281 20160 20378 20548 20581 20712 20839 27305 28670
+FC    ? vendor.qti.hardware.fm@1.0::IFmHci/default                                       N/A        874    874
+FC    ? vendor.qti.hardware.qseecom@1.0::IQSEECom/default                                N/A        623    623
+FC    ? vendor.qti.hardware.qteeconnector@1.0::IAppConnector/default                     N/A        997    997
+FC    ? vendor.qti.hardware.qteeconnector@1.0::IGPAppConnector/default                   N/A        997    997
+FC    ? vendor.qti.hardware.sensorscalibrate@1.0::ISensorsCalibrate/default              N/A        999    999
+FC    ? vendor.qti.hardware.servicetracker@1.2::IServicetracker/default                  N/A        1000   1000
+FC    ? vendor.qti.hardware.soter@1.0::ISoter/default                                    N/A        1001   1001
+
+| All available passthrough implementations (all -impl.so files).
+| These may return subclasses through their respective HIDL_FETCH_I* functions.
+VINTF R Interface                                                                     Thread Use Server Clients
+X     ? android.hardware.audio.effect@2.0::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? android.hardware.audio.effect@2.0::I*/* (/vendor/lib64/hw/)                   N/A        N/A    
+X     ? android.hardware.audio.effect@4.0::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? android.hardware.audio.effect@4.0::I*/* (/vendor/lib64/hw/)                   N/A        N/A    
+X     ? android.hardware.audio.effect@5.0::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? android.hardware.audio.effect@5.0::I*/* (/vendor/lib64/hw/)                   N/A        N/A    
+X     ? android.hardware.audio.effect@6.0::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? android.hardware.audio.effect@6.0::I*/* (/vendor/lib64/hw/)                   N/A        N/A    
+X     ? android.hardware.audio@2.0::I*/* (/vendor/lib/hw/)                            N/A        N/A    
+X     ? android.hardware.audio@2.0::I*/* (/vendor/lib64/hw/)                          N/A        N/A    
+X     ? android.hardware.audio@4.0::I*/* (/vendor/lib/hw/)                            N/A        N/A    
+X     ? android.hardware.audio@4.0::I*/* (/vendor/lib64/hw/)                          N/A        N/A    
+X     ? android.hardware.audio@5.0::I*/* (/vendor/lib/hw/)                            N/A        N/A    
+X     ? android.hardware.audio@5.0::I*/* (/vendor/lib64/hw/)                          N/A        N/A    
+X     ? android.hardware.audio@6.0::I*/* (/vendor/lib/hw/)                            N/A        N/A    
+X     ? android.hardware.audio@6.0::I*/* (/vendor/lib64/hw/)                          N/A        N/A    
+X     ? android.hardware.bluetooth.audio@2.0::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? android.hardware.bluetooth.audio@2.0::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? android.hardware.bluetooth@1.0::I*/* (/vendor/lib/hw/) (-qti)                 N/A        N/A    
+X     ? android.hardware.bluetooth@1.0::I*/* (/vendor/lib64/hw/) (-qti)               N/A        N/A    
+X     ? android.hardware.boot@1.0::I*/* (/vendor/lib/hw/) (-1.1-qti)                  N/A        N/A    
+X     ? android.hardware.boot@1.0::I*/* (/vendor/lib64/hw/) (-1.1-qti)                N/A        N/A    
+X     ? android.hardware.broadcastradio@1.0::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? android.hardware.broadcastradio@1.0::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? android.hardware.camera.provider@2.4::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? android.hardware.camera.provider@2.4::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? android.hardware.contexthub@1.0::I*/* (/vendor/lib/hw/) (.generic)            N/A        N/A    
+X     ? android.hardware.contexthub@1.0::I*/* (/vendor/lib64/hw/) (.generic)          N/A        N/A    
+X     ? android.hardware.gatekeeper@1.0::I*/* (/vendor/lib/hw/) (-qti)                N/A        N/A    
+X     ? android.hardware.gatekeeper@1.0::I*/* (/vendor/lib64/hw/) (-qti)              N/A        N/A    
+X     ? android.hardware.gnss@2.1::I*/* (/vendor/lib/hw/) (-qti)                      N/A        N/A    
+X     ? android.hardware.gnss@2.1::I*/* (/vendor/lib64/hw/) (-qti)                    N/A        N/A    
+X     ? android.hardware.graphics.mapper@3.0::I*/* (/vendor/lib/hw/) (-qti-display)   N/A        N/A    
+X     ? android.hardware.graphics.mapper@3.0::I*/* (/vendor/lib64/hw/) (-qti-display) N/A        N/A    
+X     ? android.hardware.graphics.mapper@4.0::I*/* (/vendor/lib/hw/) (-qti-display)   N/A        N/A    
+X     ? android.hardware.graphics.mapper@4.0::I*/* (/vendor/lib64/hw/) (-qti-display) N/A        N/A    
+X     ? android.hardware.health@2.0::I*/* (/vendor/lib/hw/) (-2.1-qti)                N/A        N/A    
+X     ? android.hardware.health@2.0::I*/* (/vendor/lib64/hw/) (-2.1-qti)              N/A        N/A    
+X     ? android.hardware.keymaster@3.0::I*/* (/vendor/lib/hw/) (-qti)                 N/A        N/A    
+X     ? android.hardware.keymaster@3.0::I*/* (/vendor/lib64/hw/) (-qti)               N/A        N/A    
+X     ? android.hardware.memtrack@1.0::I*/* (/vendor/lib/hw/)                         N/A        N/A    
+X     ? android.hardware.memtrack@1.0::I*/* (/vendor/lib64/hw/)                       N/A        N/A    
+X     ? android.hardware.renderscript@1.0::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? android.hardware.renderscript@1.0::I*/* (/vendor/lib64/hw/)                   N/A        N/A    
+X     ? android.hardware.soundtrigger@2.1::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? android.hidl.memory@1.0::I*/* (/apex/com.android.vndk.v30/lib/hw/)            N/A        N/A    
+X     ? android.hidl.memory@1.0::I*/* (/apex/com.android.vndk.v30/lib64/hw/)          N/A        N/A    
+X     ? android.hidl.memory@1.0::I*/* (/system/lib/hw/)                               N/A        N/A    
+X     ? android.hidl.memory@1.0::I*/* (/system/lib64/hw/)                             N/A        N/A    
+X     ? com.dsi.ant@1.0::I*/* (/vendor/lib/hw/)                                       N/A        N/A    
+X     ? com.dsi.ant@1.0::I*/* (/vendor/lib64/hw/)                                     N/A        N/A    
+X     ? vendor.gnd.hardware.payment.lgpayd@1.0::I*/* (/vendor/lib/hw/)                N/A        N/A    
+X     ? vendor.lge.hardware.accessory.uevent@1.2::I*/* (/vendor/lib/hw/)              N/A        N/A    
+X     ? vendor.lge.hardware.accessory.uevent@1.2::I*/* (/vendor/lib64/hw/)            N/A        N/A    
+X     ? vendor.lge.hardware.accessory@1.1::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? vendor.lge.hardware.accessory@1.1::I*/* (/vendor/lib64/hw/)                   N/A        N/A    
+X     ? vendor.lge.hardware.bootproperty@1.0::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? vendor.lge.hardware.bootproperty@1.0::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? vendor.lge.hardware.cameraex@1.0::I*/* (/vendor/lib/hw/)                      N/A        N/A    
+X     ? vendor.lge.hardware.cameraex@1.0::I*/* (/vendor/lib64/hw/)                    N/A        N/A    
+X     ? vendor.lge.hardware.coverdisplay@1.0::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? vendor.lge.hardware.coverdisplay@1.0::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? vendor.lge.hardware.display.brightness@1.2::I*/* (/vendor/lib/hw/)            N/A        N/A    
+X     ? vendor.lge.hardware.display.brightness@1.2::I*/* (/vendor/lib64/hw/)          N/A        N/A    
+X     ? vendor.lge.hardware.display.uevent@1.0::I*/* (/vendor/lib/hw/)                N/A        N/A    
+X     ? vendor.lge.hardware.display.uevent@1.0::I*/* (/vendor/lib64/hw/)              N/A        N/A    
+X     ? vendor.lge.hardware.dualscreen@1.1::I*/* (/vendor/lib/hw/)                    N/A        N/A    
+X     ? vendor.lge.hardware.dualscreen@1.1::I*/* (/vendor/lib64/hw/)                  N/A        N/A    
+X     ? vendor.lge.hardware.fido@1.0::I*/* (/vendor/lib/hw/)                          N/A        N/A    
+X     ? vendor.lge.hardware.fido@1.0::I*/* (/vendor/lib64/hw/)                        N/A        N/A    
+X     ? vendor.lge.hardware.fingertest@1.0::I*/* (/vendor/lib64/hw/)                  N/A        N/A    
+X     ? vendor.lge.hardware.ftmitem@1.0::I*/* (/vendor/lib/hw/)                       N/A        N/A    
+X     ? vendor.lge.hardware.ftmitem@1.0::I*/* (/vendor/lib64/hw/)                     N/A        N/A    
+X     ? vendor.lge.hardware.gnss@1.0::I*/* (/vendor/lib/hw/)                          N/A        N/A    
+X     ? vendor.lge.hardware.gnss@1.0::I*/* (/vendor/lib64/hw/)                        N/A        N/A    
+X     ? vendor.lge.hardware.laop@1.0::I*/* (/vendor/lib/hw/)                          N/A        N/A    
+X     ? vendor.lge.hardware.laop@1.0::I*/* (/vendor/lib64/hw/)                        N/A        N/A    
+X     ? vendor.lge.hardware.lgatcmd@1.0::I*/* (/vendor/lib/hw/)                       N/A        N/A    
+X     ? vendor.lge.hardware.light@1.0::I*/* (/vendor/lib/hw/)                         N/A        N/A    
+X     ? vendor.lge.hardware.light@1.0::I*/* (/vendor/lib64/hw/)                       N/A        N/A    
+X     ? vendor.lge.hardware.lpwg@1.4::I*/* (/vendor/lib/hw/)                          N/A        N/A    
+X     ? vendor.lge.hardware.lpwg@1.4::I*/* (/vendor/lib64/hw/)                        N/A        N/A    
+X     ? vendor.lge.hardware.msp@1.0::I*/* (/vendor/lib/hw/)                           N/A        N/A    
+X     ? vendor.lge.hardware.payment.giftcard@1.0::I*/* (/vendor/lib/hw/)              N/A        N/A    
+X     ? vendor.lge.hardware.payment.giftcard@1.0::I*/* (/vendor/lib64/hw/)            N/A        N/A    
+X     ? vendor.lge.hardware.payment.mme@1.0::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.lge.hardware.payment.mme@1.0::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.lge.hardware.sdcardtray@1.0::I*/* (/vendor/lib/hw/)                    N/A        N/A    
+X     ? vendor.lge.hardware.sdcardtray@1.0::I*/* (/vendor/lib64/hw/)                  N/A        N/A    
+X     ? vendor.lge.hardware.sensortest@1.2::I*/* (/vendor/lib64/hw/)                  N/A        N/A    
+X     ? vendor.lge.hardware.soi@1.0::I*/* (/vendor/lib/hw/)                           N/A        N/A    
+X     ? vendor.lge.hardware.soi@1.0::I*/* (/vendor/lib64/hw/)                         N/A        N/A    
+X     ? vendor.lge.hardware.storageinfo@1.1::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.lge.hardware.storageinfo@1.1::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.lge.hardware.touch@1.0::I*/* (/vendor/lib/hw/)                         N/A        N/A    
+X     ? vendor.lge.hardware.touch@1.0::I*/* (/vendor/lib64/hw/)                       N/A        N/A    
+X     ? vendor.lge.hardware.usb.uevent@1.0::I*/* (/vendor/lib/hw/)                    N/A        N/A    
+X     ? vendor.lge.hardware.usb.uevent@1.0::I*/* (/vendor/lib64/hw/)                  N/A        N/A    
+X     ? vendor.lge.hardware.usb@1.0::I*/* (/vendor/lib/hw/)                           N/A        N/A    
+X     ? vendor.lge.hardware.usb@1.0::I*/* (/vendor/lib64/hw/)                         N/A        N/A    
+X     ? vendor.lge.hardware.vibrator@2.0::I*/* (/vendor/lib/hw/) (-immersion)         N/A        N/A    
+X     ? vendor.lge.hardware.vibrator@2.0::I*/* (/vendor/lib64/hw/) (-immersion)       N/A        N/A    
+X     ? vendor.lge.hardware.vss_ims@1.0::I*/* (/vendor/lib/hw/)                       N/A        N/A    
+X     ? vendor.lge.hardware.vss_ims@1.0::I*/* (/vendor/lib64/hw/)                     N/A        N/A    
+X     ? vendor.qti.esepowermanager@1.1::I*/* (/vendor/lib/hw/)                        N/A        N/A    
+X     ? vendor.qti.esepowermanager@1.1::I*/* (/vendor/lib64/hw/)                      N/A        N/A    
+X     ? vendor.qti.gnss@4.0::I*/* (/vendor/lib/hw/)                                   N/A        N/A    
+X     ? vendor.qti.gnss@4.0::I*/* (/vendor/lib64/hw/)                                 N/A        N/A    
+X     ? vendor.qti.hardware.alarm@1.0::I*/* (/vendor/lib/hw/)                         N/A        N/A    
+X     ? vendor.qti.hardware.alarm@1.0::I*/* (/vendor/lib64/hw/)                       N/A        N/A    
+X     ? vendor.qti.hardware.bluetooth_audio@2.0::I*/* (/vendor/lib/hw/)               N/A        N/A    
+X     ? vendor.qti.hardware.bluetooth_audio@2.0::I*/* (/vendor/lib64/hw/)             N/A        N/A    
+X     ? vendor.qti.hardware.bluetooth_audio@2.1::I*/* (/vendor/lib/hw/)               N/A        N/A    
+X     ? vendor.qti.hardware.bluetooth_audio@2.1::I*/* (/vendor/lib64/hw/)             N/A        N/A    
+X     ? vendor.qti.hardware.bluetooth_sar@1.1::I*/* (/vendor/lib/hw/)                 N/A        N/A    
+X     ? vendor.qti.hardware.bluetooth_sar@1.1::I*/* (/vendor/lib64/hw/)               N/A        N/A    
+X     ? vendor.qti.hardware.btconfigstore@1.0::I*/* (/vendor/lib/hw/)                 N/A        N/A    
+X     ? vendor.qti.hardware.btconfigstore@1.0::I*/* (/vendor/lib64/hw/)               N/A        N/A    
+X     ? vendor.qti.hardware.btconfigstore@2.0::I*/* (/vendor/lib/hw/)                 N/A        N/A    
+X     ? vendor.qti.hardware.btconfigstore@2.0::I*/* (/vendor/lib64/hw/)               N/A        N/A    
+X     ? vendor.qti.hardware.capabilityconfigstore@1.0::I*/* (/vendor/lib/hw/)         N/A        N/A    
+X     ? vendor.qti.hardware.capabilityconfigstore@1.0::I*/* (/vendor/lib64/hw/)       N/A        N/A    
+X     ? vendor.qti.hardware.fm@1.0::I*/* (/vendor/lib/hw/)                            N/A        N/A    
+X     ? vendor.qti.hardware.fm@1.0::I*/* (/vendor/lib64/hw/)                          N/A        N/A    
+X     ? vendor.qti.hardware.qseecom@1.0::I*/* (/vendor/lib/hw/)                       N/A        N/A    
+X     ? vendor.qti.hardware.qseecom@1.0::I*/* (/vendor/lib64/hw/)                     N/A        N/A    
+X     ? vendor.qti.hardware.qteeconnector@1.0::I*/* (/vendor/lib/hw/)                 N/A        N/A    
+X     ? vendor.qti.hardware.qteeconnector@1.0::I*/* (/vendor/lib64/hw/)               N/A        N/A    
+X     ? vendor.qti.hardware.sensorscalibrate@1.0::I*/* (/vendor/lib/hw/)              N/A        N/A    
+X     ? vendor.qti.hardware.sensorscalibrate@1.0::I*/* (/vendor/lib64/hw/)            N/A        N/A    
+X     ? vendor.qti.hardware.servicetracker@1.2::I*/* (/vendor/lib/hw/)                N/A        N/A    
+X     ? vendor.qti.hardware.servicetracker@1.2::I*/* (/vendor/lib64/hw/)              N/A        N/A    
+X     ? vendor.qti.hardware.soter@1.0::I*/* (/vendor/lib/hw/)                         N/A        N/A    
+X     ? vendor.qti.hardware.soter@1.0::I*/* (/vendor/lib64/hw/)                       N/A        N/A    
+X     ? vendor.qti.hardware.wifidisplaysession@1.0::I*/* (/vendor/lib/hw/)            N/A        N/A    
+X     ? vendor.qti.hardware.wifidisplaysession@1.0::I*/* (/vendor/lib64/hw/)          N/A        N/A    
+X     ? vendor.qti.power.pasrmanager@1.0::I*/* (/vendor/lib/hw/)                      N/A        N/A    
+X     ? vendor.qti.power.pasrmanager@1.0::I*/* (/vendor/lib64/hw/)                    N/A        N/A    
+

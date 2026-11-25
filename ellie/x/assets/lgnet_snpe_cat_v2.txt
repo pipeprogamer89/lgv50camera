@@ -1,0 +1,445 @@
+acorn:acorn, plant 
+airplane:airplane, vehicle
+allium flower:allium flower, plant 
+almond:almond, seed 
+amusement park:amusement park, park 
+ant:ant, insect 
+antelope:antelope, mammal, animal
+apartment:apartment 
+apple:apple, fruit 
+artichoke:artichoke
+asparagus:asparagus
+aurora:aurora, sky 
+avocado:avocado, fruit, food
+baboon:baboon, mammal, animal
+baby:baby
+backpack:backpack, bag 
+bacon:bacon, meat 
+bag:bag 
+bald eagle:bald eagle, bird, animal
+balloon:balloon 
+banana:banana, fruit 
+barbecue:barbecue, meat 
+basil:basil, plant 
+basilica:basilica, building 
+basketball:basketball, sport 
+beagle:beagle, dog, mammal, animal
+bean:bean, seed
+bear:bear, mammal, animal
+beard:beard 
+bed:bed 
+bee:bee, insect 
+beef:beef, meat 
+beer:beer, alcoholic drink 
+beetle:beetle, insect 
+bell pepper:bell pepper, plant 
+biscuit:biscuit, food
+black olive:black olive, plant 
+blueberry:blueberry, fruit 
+blur:blur 
+boat:boat 
+boiled egg:boiled egg, food
+bonfire:bonfire, fire 
+book:book 
+boot:boot, footwear 
+border collie:border collie, dog, mammal, animal
+bouquet:bouquet, plant 
+bowl:bowl 
+boy:boy
+bread:bread 
+brick:brick 
+bride:bride
+bridge:bridge 
+broccoli:broccoli, plant 
+brownie:brownie, chocolate, bread
+buffalo:buffalo, mammal, animal
+building:building 
+bull:bull, mammal, animal
+bulldog:bulldog, dog, mammal, animal
+bulldozer:bulldozer, vehicle 
+burger:burger, food
+bus:bus, vehicle 
+butterfly:butterfly, insect 
+cabbage:cabbage, plant 
+cage:cage 
+cake:cake, food
+camel:camel, mammal, animal
+candy:candy, food
+cappuccino:cappuccino, drink 
+car:car, vehicle 
+carrot:carrot, plant 
+cashew:cashew, seed
+castle:castle 
+cat:cat, mammal, animal
+caterpillar:caterpillar, insect 
+cauliflower:cauliflower, plant 
+cave:cave 
+cereal:cereal, food
+chair:chair 
+chameleon:chameleon, animal
+champagne:champagne, alcoholic drink 
+cheese:cheese, food
+cheetah:cheetah, mammal, animal
+cherry:cherry, fruit 
+cherry tomato:cherry tomato, plant 
+chestnut:chestnut 
+chicken:chicken, animal
+chicken meat:chicken meat, meat 
+chihuahua:chihuahua, dog, mammal, animal
+chili pepper:chili pepper, plant 
+chimpanzee:chimpanzee, mammal, animal
+chocolate:chocolate, food
+citrus fruit:citrus fruit, fruit 
+city:city 
+classroom:classroom 
+cliff:cliff 
+clock:clock 
+clock tower:clock tower, clock
+cloud:cloud, sky 
+coconut:coconut, fruit 
+coffee:coffee, drink 
+cola:cola, drink 
+computer:computer, screen, keyboard
+concert:concert, music 
+coneflower:coneflower, plant
+coniferous tree:coniferous tree, plant 
+container ship:container ship, boat 
+cookie:cookie 
+coral:coral, sea 
+corn:corn, plant 
+cow:cow, mammal, animal
+crab:crab
+crocodile:crocodile, reptile, animal
+croissant:croissant, bread, food
+crosswalk:crosswalk, road 
+cucumber:cucumber, plant 
+cup:cup 
+curry:curry, food
+curtain:curtain 
+cutlery:cutlery 
+dachshund:dachshund, dog, mammal, animal
+daisy:daisy, plant 
+dalmatian dog:dalmatian dog, dog, mammal, animal
+dandelion:dandelion, plant 
+deer:deer, mammal, animal
+dessert:dessert, food
+dice:dice 
+dolphin:dolphin, mammal, animal
+dome:dome 
+donkey:donkey, mammal, animal
+donut:donut, food
+dove:dove, bird, animal
+dragonfly:dragonfly, insect 
+duck:duck, bird, animal
+dumpling:dumpling, food
+eagle:eagle, bird, animal
+easter:easter, egg 
+egg:egg
+egg yolk:egg yolk, food
+eggplant:eggplant, plant 
+elephant:elephant, mammal, animal
+english bulldog:english bulldog, dog, mammal, animal
+farm:farm 
+ferris wheel:ferris wheel, amusement park
+ferry:ferry 
+fig:fig, fruit 
+fireplace:fireplace 
+firework:firework 
+fish:fish, animal
+fishing:fishing 
+flamingo:flamingo, bird, animal
+flower head:flower head, flower 
+focus on foreground:focus on foreground 
+foosball:foosball 
+forest:forest, tree
+fork:fork, cutlery
+fort:fort 
+fountain:fountain 
+fox:fox, mammal, animal
+french bulldog:french bulldog, dog, mammal, animal
+fried egg:fried egg 
+fries:fries, food
+frog:frog, animal
+frozen lake:frozen lake, lake 
+fruit:fruit 
+fruit salad:fruit salad, food
+fruit tree:fruit tree, plant 
+garlic:garlic, plant 
+gecko:gecko, animal
+german shepherd:german shepherd, dog, mammal, animal
+giraffe:giraffe, mammal, animal
+girl:girl
+glasses:glasses 
+goat:goat, mammal, animal
+golden retriever:golden retriever, dog, mammal, animal
+goldfish:goldfish, fish, animal
+golf course:golf course 
+gondola:gondola, boat 
+goose:goose, bird, animal
+graffiti:graffiti, wall
+grape:grape, fruit 
+grass:grass, plant 
+grasshopper:grasshopper, insect 
+green bean:green bean, plant 
+green pea:green pea 
+group of people:group of people
+guitar:guitar, musical instrument 
+hair:hair
+ham:ham, food
+hand:hand
+hat:hat 
+hawk:hawk, bird, animal
+hedgehog:hedgehog, mammal, animal
+hermit crab:hermit crab
+heron:heron, bird, animal
+hippopotamus:hippopotamus, mammal, animal
+honey:honey 
+horse:horse, mammal, animal
+hot air balloon:hot air balloon, balloon 
+hot chocolate:hot chocolate, drink 
+hot dog:hot dog 
+hummingbird:hummingbird, bird, animal
+ice cream:ice cream, food
+iced coffee:iced coffee, drink 
+iguana:iguana, reptile, animal
+jam:jam, food
+jellyfish:jellyfish 
+juice:juice, drink 
+kangaroo:kangaroo, mammal, animal
+kayak:kayak, boat 
+kebab:kebab, food
+ketchup:ketchup, sauce 
+kid:kid
+kitten:kitten, cat, mammal, animal
+kiwi:kiwi, fruit 
+koala:koala, mammal, animal
+labrador retriever:labrador retriever, dog, mammal, animal
+ladybug:ladybug, insect 
+lake:lake 
+lamp:lamp 
+latte:latte, drink 
+lavender:lavender, plant 
+leaf:leaf, plant 
+lemon:lemon, fruit 
+lemonade:lemonade, drink 
+lentil:lentil, seed 
+leopard:leopard, mammal, animal
+lettuce:lettuce, vegetable, plant
+lifeguard hut:lifeguard hut, sea 
+lion:lion, mammal, animal
+lizard:lizard, reptile 
+lobster:lobster
+lollipop:lollipop 
+lychee:lychee, fruit 
+macaroon:macaroon, food
+man:man
+mango:mango, fruit 
+mannequin:mannequin 
+maple:maple, plant 
+marigold:marigold, plant 
+marshmallow:marshmallow, food
+mashed potatoes:mashed potatoes, food
+mayonnaise:mayonnaise, sauce 
+meat:meat 
+meerkat:meerkat, mammal, animal
+melon:melon, fruit 
+military uniform:military uniform 
+milk:milk, drink 
+milkshake:milkshake, drink 
+mint:mint, plant 
+mojito:mojito, alcoholic drink 
+money:money 
+monkey:monkey, mammal, animal
+mosque:mosque 
+motorcycle:motorcycle, vehicle 
+mountain:mountain, landscape 
+mozzarella:mozzarella, cheese 
+muffin:muffin, bread 
+musician:musician, musical instrument
+neon:neon 
+noodles:noodles, food
+number:number 
+oats:oats, food
+octopus:octopus, animal
+office:office, home_interior
+olive:olive, plant 
+omelet:omelet, food
+onion:onion, plant 
+orange:orange, fruit 
+orange juice:orange juice, drink 
+orchid:orchid, plant 
+ostrich:ostrich, bird, animal
+overcast:overcast, sky 
+owl:owl, bird, animal
+oyster:oyster 
+palace:palace 
+palm tree:palm tree, plant 
+pancake:pancake, food
+panda:panda, bear, animal
+papaya:papaya, fruit 
+paragliding:paragliding 
+parrot:parrot, bird, animal
+parsley:parsley 
+passenger craft:passenger craft, boat 
+passion flower:passion flower, plant 
+pasta:pasta, noodles, food
+pastry:pastry, bread 
+peach:peach, fruit 
+peacock:peacock, bird, animal
+peanut:peanut, seed 
+pear:pear, fruit 
+penguin:penguin, bird, animal
+petunia:petunia, plant 
+piano:piano, musical instrument 
+pie:pie, bread
+pig:pig, mammal, animal
+pillow:pillow 
+pineapple:pineapple, fruit 
+pit bull terrier:pit bull terrier, dog, mammal, animal
+pizza:pizza, food
+plate:plate 
+playground:playground 
+plum:plum, fruit 
+polar bear:polar bear, bear, animal
+pomeranian:pomeranian, dog, mammal, animal
+pony:pony, mammal, animal
+poodle:poodle, dog, mammal, animal
+popcorn:popcorn, food
+portrait:portrait
+potato:potato 
+power line:power line 
+pug:pug, dog, mammal, animal
+pumpkin:pumpkin 
+puppy:puppy, dog, mammal, animal
+rabbit:rabbit, mammal, animal
+raccoon:raccoon, mammal, animal
+radish:radish, plant 
+raft:raft, boat 
+railroad platform:railroad platform 
+rainbow:rainbow, sky 
+raisin:raisin 
+raspberry:raspberry, fruit 
+rat:rat, mammal, animal
+raven:raven, bird, animal
+red currant:red currant 
+reindeer:reindeer, mammal, animal
+rhinoceros:rhinoceros, mammal, animal
+rice:rice 
+river:river, landscape 
+road:road 
+road sign:road sign 
+robin:robin, bird, animal
+rock:rock 
+rose:rose, plant 
+rottweiler:rottweiler, dog, mammal, animal
+rowboat:rowboat, boat 
+sail:sail, boat, sea
+salad:salad, vegetable 
+salmon:salmon, fish 
+sand:sand 
+sand dune:sand dune, sand 
+sandwich:sandwich 
+sashimi:sashimi, fish 
+sausage:sausage 
+scooter:scooter, vehicle 
+scrambled eggs:scrambled eggs 
+scuba diving:scuba diving, sea 
+sculpture:sculpture 
+sea lion:sea lion, mammal, animal
+sea urchin:sea urchin, mammal, animal
+seagull:seagull, bird, animal
+seascape:seascape, sea 
+seashell:seashell 
+seaweed:seaweed 
+shark:shark, animal
+sheep:sheep, mammal, animal
+shoe:shoe 
+shopping mall:shopping mall 
+shrimp:shrimp 
+siberian husky:siberian husky, dog, mammal, animal
+sign:sign 
+ski:ski 
+sky:sky, sky 
+snail:snail 
+snake:snake, reptile, animal
+snow:snow 
+snowdrop:snowdrop, plant 
+snowman:snowman 
+soda:soda, drink 
+soup:soup, food
+sparrow:sparrow, bird, animal
+spider:spider, insect 
+spinach:spinach, vegetable
+sport:sport 
+spring onion:spring onion, vegetable
+spring roll:spring roll 
+squirrel:squirrel, mammal, animal
+stadium:stadium 
+stairs:stairs 
+star:star, sky 
+star trail:star trail, sky 
+starfish:starfish 
+steak:steak, meat 
+steering wheel:steering wheel, vehicle 
+stingray:stingray, animal
+stork:stork, bird, animal
+storm cloud:storm cloud, sky 
+strawberry:strawberry, fruit 
+street:street 
+street market:street market, market 
+subway:subway 
+suit:suit 
+sun:sun, sky 
+sunflower:sunflower, plant 
+sunglasses:sunglasses 
+sunset sunrise:sunset sunrise, sky 
+surf:surf 
+sushi:sushi, food
+swan:swan, bird, animal
+sweet potato:sweet potato 
+swimming pool:swimming pool 
+table:table 
+taco:taco, food
+take out food:take out food 
+taxi:taxi, vehicle 
+tea:tea, drink 
+tennis:tennis, sport 
+terrier:terrier, dog, mammal, animal
+text:text 
+thatched roof:thatched roof 
+thistle:thistle, plant 
+tiger:tiger, mammal, animal
+toast:toast 
+tomato:tomato, vegetable 
+tower:tower 
+town square:town square 
+track and field:track and field 
+tractor:tractor, vehicle 
+train:train 
+tree:tree 
+tulip:tulip, plant 
+turtle:turtle, animal
+van:van, vehicle 
+vegetable:vegetable, plant 
+waffle:waffle, food
+walnut:walnut, seed 
+water lily:water lily, plant 
+waterfall:waterfall, landscape 
+watermelon:watermelon, fruit 
+wave:wave, sea 
+wedding:wedding 
+weimaraner:weimaraner, dog, mammal, animal
+whale:whale, mammal, animal
+wheat:wheat, plant 
+whiskey:whiskey, alcoholic drink 
+wildflower:wildflower, plant 
+windmill:windmill 
+wine:wine, alcoholic drink 
+wolf:wolf, mammal, animal
+woman:woman
+woodpecker:woodpecker, bird, animal
+wristwatch:wristwatch 
+yacht:yacht, boat 
+yogurt:yogurt, food
+yorkshire terrier:yorkshire terrier, dog, mammal, animal
+zebra:zebra, mammal, animal

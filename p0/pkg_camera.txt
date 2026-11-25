@@ -1,0 +1,834 @@
+Activity Resolver Table:
+  Schemes:
+      com.lge.camera:
+        6c0e222 com.lge.camera/.app.GoogleAssistantActivity filter e854a70
+          Action: "android.media.action.STILL_IMAGE_CAMERA"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.VOICE"
+          Scheme: "com.lge.camera"
+        6c0e222 com.lge.camera/.app.GoogleAssistantActivity filter 22efe6e
+          Action: "android.media.action.VIDEO_CAMERA"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.VOICE"
+          Scheme: "com.lge.camera"
+
+  Non-Data Actions:
+      com.lge.autorun.start_ums:
+        a9fa3ca com.lge.camera/.app.CameraActivity filter fcd4db1
+          Action: "com.lge.autorun.start_ums"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.IMAGE_CAPTURE:
+        a9fa3ca com.lge.camera/.app.CameraActivity filter 21c793b
+          Action: "android.media.action.IMAGE_CAPTURE"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.sticker:
+        519e732 com.lge.camera/.app.StickerActivity filter 324dc83
+          Action: "com.lge.camera.widget.sticker"
+          Action: "com.lge.camera.shortcut_sticker"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_sticker:
+        519e732 com.lge.camera/.app.StickerActivity filter 324dc83
+          Action: "com.lge.camera.widget.sticker"
+          Action: "com.lge.camera.shortcut_sticker"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.IMAGE_CAPTURE_SECURE:
+        69c090f com.lge.camera/.SecureCameraApp filter ccd3a5
+          Action: "android.media.action.IMAGE_CAPTURE_SECURE"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.quickcover:
+        f782fa0 com.lge.camera/.app.QuickWindowCameraActivity filter a6f3759
+          Action: "com.lge.android.intent.action.STILL_IMAGE_CAMERA_COVER"
+          Action: "com.lge.quickcover"
+          Action: "com.lge.dzny"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_slow_motion:
+        233fe00 com.lge.camera/.app.SlowMotionActivity filter b875639
+          Action: "com.lge.camera.shortcut_slow_motion"
+          Action: "com.lge.camera.widget.slowmotion"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.graphy.action.MYFILTER:
+        6120b07 com.lge.camera/.app.GraphyCameraActivity filter 452d25d
+          Action: "com.lge.graphy.action.MYFILTER"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_story_shot:
+        a032a8a com.lge.camera/.app.StoryShotCameraActivity filter b0b58fb
+          Action: "com.lge.camera.shortcut_story_shot"
+          Action: "com.lge.camera.widget.storyshot"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.outfocus:
+        f4406a6 com.lge.camera/.app.PortraitCameraActivity filter 46198e7
+          Action: "com.lge.camera.widget.outfocus"
+          Action: "com.lge.camera.shortcut_outfocus"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        ffc3296 com.lge.camera/.CameraAppLauncher filter bcf6e17
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.LAUNCHER"
+        79a272b com.lge.camera/.app.ext.PopoutActivity filter ad3f788
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        cdc0521 com.lge.camera/.app.SquareCameraActivity filter bc46d46
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        6120b07 com.lge.camera/.app.GraphyCameraActivity filter 3750434
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        44a17d2 com.lge.camera/.app.MultiResumeDummyActivity filter 53a50a3
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        c0ddf1e com.lge.camera/.app.HighResRecordLimitDummyActivity filter b1753ff
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        f28b3f6 com.lge.camera/.app.SelfieCameraActivity filter 57be264
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.CONE_SHORTCUT_RECOMMENDED_FUNC"
+        6a2970b com.lge.camera/.app.AICamPinShortcutActivity filter ac1d9e8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+      com.lguplus.media.action.IMAGE_CAPTURE_OEM_MODE:
+        a9fa3ca com.lge.camera/.app.CameraActivity filter 1b1c858
+          Action: "com.lguplus.media.action.IMAGE_CAPTURE_OEM_MODE"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.slowmotion:
+        233fe00 com.lge.camera/.app.SlowMotionActivity filter b875639
+          Action: "com.lge.camera.shortcut_slow_motion"
+          Action: "com.lge.camera.widget.slowmotion"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.android.intent.action.STILL_IMAGE_CAMERA_COVER:
+        f782fa0 com.lge.camera/.app.QuickWindowCameraActivity filter a6f3759
+          Action: "com.lge.android.intent.action.STILL_IMAGE_CAMERA_COVER"
+          Action: "com.lge.quickcover"
+          Action: "com.lge.dzny"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_pin_ai_cam:
+        6a2970b com.lge.camera/.app.AICamPinShortcutActivity filter 65ea801
+          Action: "com.lge.camera.shortcut_pin_ai_cam"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_manual_camera:
+        bfa8c9 com.lge.camera/.app.ManualCameraActivity filter b7e4bce
+          Action: "com.lge.camera.shortcut_manual_camera"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_ai_cam:
+        a910885 com.lge.camera/.app.AICamActivity filter c3756da
+          Action: "com.lge.camera.widget.ai_cam"
+          Action: "com.lge.camera.shortcut_ai_cam"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_selfie_camera:
+        f28b3f6 com.lge.camera/.app.SelfieCameraActivity filter 16dc3f7
+          Action: "com.lge.camera.shortcut_selfie_camera"
+          Action: "com.lge.camera.widget.selfie"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_manual_video:
+        f333aef com.lge.camera/.app.ManualVideoActivity filter 89f19fc
+          Action: "com.lge.camera.shortcut_manual_video"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.dzny:
+        f782fa0 com.lge.camera/.app.QuickWindowCameraActivity filter a6f3759
+          Action: "com.lge.android.intent.action.STILL_IMAGE_CAMERA_COVER"
+          Action: "com.lge.quickcover"
+          Action: "com.lge.dzny"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.VIDEO_CAMERA_SECURE:
+        69c090f com.lge.camera/.SecureCameraApp filter 650937a
+          Action: "android.media.action.VIDEO_CAMERA_SECURE"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_outfocus:
+        f4406a6 com.lge.camera/.app.PortraitCameraActivity filter 46198e7
+          Action: "com.lge.camera.widget.outfocus"
+          Action: "com.lge.camera.shortcut_outfocus"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_3d_light:
+        adafa2c com.lge.camera/.app.StudioCameraActivity filter 17e1cf5
+          Action: "com.lge.camera.shortcut_3d_light"
+          Action: "com.lge.camera.widget.studio"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.bright_camera:
+        3ceac94 com.lge.camera/.app.BrightCameraActivity filter 60cc33d
+          Action: "com.lge.camera.widget.bright_camera"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.STILL_IMAGE_CAMERA:
+        6c0e222 com.lge.camera/.app.GoogleAssistantActivity filter d52d4b3
+          Action: "android.media.action.STILL_IMAGE_CAMERA"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.VOICE"
+      android.media.action.STILL_IMAGE_CAMERA_SECURE:
+        69c090f com.lge.camera/.SecureCameraApp filter bcc9d9c
+          Action: "android.media.action.STILL_IMAGE_CAMERA_SECURE"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.VIDEO_CAPTURE:
+        7a71204 com.lge.camera/.Camcorder filter cb813ed
+          Action: "android.media.action.VIDEO_CAPTURE"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_video:
+        6138d18 com.lge.camera/.app.VideoCameraActivity filter 3e09371
+          Action: "com.lge.camera.shortcut_video"
+          Action: "com.lge.camera.widget.video"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_triple_shot:
+        dfb447e com.lge.camera/.app.TripleShotActivity filter a4ebddf
+          Action: "com.lge.camera.shortcut_triple_shot"
+          Action: "com.lge.camera.widget.triple_shot"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.VIDEO_CAMERA:
+        6c0e222 com.lge.camera/.app.GoogleAssistantActivity filter e0f01e9
+          Action: "android.media.action.VIDEO_CAMERA"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.VOICE"
+      com.lge.camera.widget.storyshot:
+        a032a8a com.lge.camera/.app.StoryShotCameraActivity filter b0b58fb
+          Action: "com.lge.camera.shortcut_story_shot"
+          Action: "com.lge.camera.widget.storyshot"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_auto_camera:
+        2120ccd com.lge.camera/.app.AutoCameraActivity filter 5241982
+          Action: "com.lge.camera.shortcut_auto_camera"
+          Action: "com.lge.camera.widget.photo"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.ai_cam:
+        a910885 com.lge.camera/.app.AICamActivity filter c3756da
+          Action: "com.lge.camera.widget.ai_cam"
+          Action: "com.lge.camera.shortcut_ai_cam"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.photo:
+        2120ccd com.lge.camera/.app.AutoCameraActivity filter 5241982
+          Action: "com.lge.camera.shortcut_auto_camera"
+          Action: "com.lge.camera.widget.photo"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.video:
+        6138d18 com.lge.camera/.app.VideoCameraActivity filter 3e09371
+          Action: "com.lge.camera.shortcut_video"
+          Action: "com.lge.camera.widget.video"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.triple_shot:
+        dfb447e com.lge.camera/.app.TripleShotActivity filter a4ebddf
+          Action: "com.lge.camera.shortcut_triple_shot"
+          Action: "com.lge.camera.widget.triple_shot"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.CREATE_SHORTCUT:
+        ac0a5cc com.lge.camera/.app.CreatePopoutShortcutActivity filter e52f015
+          Action: "android.intent.action.CREATE_SHORTCUT"
+          Category: "android.intent.category.DEFAULT"
+        3b4cf2a com.lge.camera/.app.CreateSquareCameraShortcutActivity filter f97311b
+          Action: "android.intent.action.CREATE_SHORTCUT"
+          Category: "android.intent.category.DEFAULT"
+        a3852b8 com.lge.camera/.app.CreateAICamShortcutActivity filter 57f7891
+          Action: "android.intent.action.CREATE_SHORTCUT"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.selfie:
+        f28b3f6 com.lge.camera/.app.SelfieCameraActivity filter 16dc3f7
+          Action: "com.lge.camera.shortcut_selfie_camera"
+          Action: "com.lge.camera.widget.selfie"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.widget.studio:
+        adafa2c com.lge.camera/.app.StudioCameraActivity filter 17e1cf5
+          Action: "com.lge.camera.shortcut_3d_light"
+          Action: "com.lge.camera.widget.studio"
+          Category: "android.intent.category.DEFAULT"
+      com.lge.camera.shortcut_cine_camera:
+        cb0a893 com.lge.camera/.app.CinemaCameraActivity filter f46c0d0
+          Action: "com.lge.camera.shortcut_cine_camera"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Schemes:
+      file:
+        f4062c4 com.lge.camera/.systeminput.MediaMountStateReceiver filter 419f5ad
+          Action: "android.intent.action.MEDIA_MOUNTED"
+          Action: "android.intent.action.MEDIA_UNMOUNTED"
+          Scheme: "file"
+
+  Non-Data Actions:
+      com.lge.camera.sticker.CONTENT_DOWNLOAD_COMPLETE:
+        4906c48 com.lge.camera/.managers.ext.sticker.contents.receiver.StickerContentsReceiver filter a2c3ae1
+          Action: "com.lge.camera.sticker.CONTENT_DOWNLOAD_COMPLETE"
+          Action: "com.lge.camera.sticker.CONTENT_DELETE_COMPLETE"
+          Action: "com.lge.camera.sticker.NEW_STICKER_PACK_UPDATE"
+      com.lge.camera.widget.action.button_click_triple_shot:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.launcher2.smartbulletin.action.DISABLED:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.camera.widget.action.button_click_ai_cam:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.camera.widget.action.button_click_bright:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.camera.widget.action.button_click_sticker:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.camera.widget.action.button_click_selfie:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.camera.widget.action.button_click_studio:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.launcher2.smartbulletin.action.PAUSED:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      android.intent.action.CAMERA_BUTTON:
+        df16556 com.lge.camera/.systeminput.ButtonIntentReceiver filter 32c89d7
+          Action: "android.intent.action.CAMERA_BUTTON"
+      com.lge.camera.sticker.CONTENT_DELETE_COMPLETE:
+        4906c48 com.lge.camera/.managers.ext.sticker.contents.receiver.StickerContentsReceiver filter a2c3ae1
+          Action: "com.lge.camera.sticker.CONTENT_DOWNLOAD_COMPLETE"
+          Action: "com.lge.camera.sticker.CONTENT_DELETE_COMPLETE"
+          Action: "com.lge.camera.sticker.NEW_STICKER_PACK_UPDATE"
+      android.intent.action.LOCALE_CHANGED:
+        50d3fa9 com.lge.camera/.systeminput.LocaleChangeReceiver filter 5bfc92e
+          Action: "android.intent.action.LOCALE_CHANGED"
+      com.lge.camera.widget.action.button_click_photo:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.camera.widget.action.button_click_video:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.launcher2.smartbulletin.action.provider.ENABLED:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.launcher2.smartbulletin.action.RESUMED:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.launcher2.smartbulletin.action.provider.DISABLED:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.camera.sticker.NEW_STICKER_PACK_UPDATE:
+        4906c48 com.lge.camera/.managers.ext.sticker.contents.receiver.StickerContentsReceiver filter a2c3ae1
+          Action: "com.lge.camera.sticker.CONTENT_DOWNLOAD_COMPLETE"
+          Action: "com.lge.camera.sticker.CONTENT_DELETE_COMPLETE"
+          Action: "com.lge.camera.sticker.NEW_STICKER_PACK_UPDATE"
+      com.lge.camera.widget.action.button_click_story_shot:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      com.lge.android.intent.action.RESOLUTION_SWITCH_MODE_CHANGED:
+        8034a3a com.lge.camera/.systeminput.ResolutionChangeReceiver filter ce076eb
+          Action: "com.lge.android.intent.action.RESOLUTION_SWITCH_MODE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        1c5ec73 com.lge.camera/.systeminput.BootCompleteReceiver filter 342e730
+          Action: "android.intent.action.BOOT_COMPLETED"
+      com.lge.camera.widget.action.button_click_outfocus:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter 9a7465c
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      com.lge.launcher2.smartbulletin.action.ENABLED:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+      android.intent.action.ACTION_SHUTDOWN:
+        f4062c4 com.lge.camera/.systeminput.MediaMountStateReceiver filter 8b680e2
+          Action: "android.intent.action.ACTION_SHUTDOWN"
+      com.lge.camera.widget.action.button_click_slowmotion:
+        988dccf com.lge.camera/.systeminput.smartbulletin.CameraSmartbulletinProvider filter ad12d65
+          Action: "com.lge.launcher2.smartbulletin.action.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.DISABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.RESUMED"
+          Action: "com.lge.launcher2.smartbulletin.action.PAUSED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.ENABLED"
+          Action: "com.lge.launcher2.smartbulletin.action.provider.DISABLED"
+          Action: "com.lge.camera.widget.action.button_click_ai_cam"
+          Action: "com.lge.camera.widget.action.button_click_bright"
+          Action: "com.lge.camera.widget.action.button_click_outfocus"
+          Action: "com.lge.camera.widget.action.button_click_sticker"
+          Action: "com.lge.camera.widget.action.button_click_slowmotion"
+          Action: "com.lge.camera.widget.action.button_click_selfie"
+          Action: "com.lge.camera.widget.action.button_click_triple_shot"
+          Action: "com.lge.camera.widget.action.button_click_studio"
+          Action: "com.lge.camera.widget.action.button_click_story_shot"
+          Action: "com.lge.camera.widget.action.button_click_photo"
+          Action: "com.lge.camera.widget.action.button_click_video"
+
+Service Resolver Table:
+  Schemes:
+      wear:
+        9cbd006 com.lge.camera/.app.RemoteShutterListenerService filter fcd96c7
+          Action: "com.google.android.gms.wearable.MESSAGE_RECEIVED"
+          Scheme: "wear"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{PREFIX: /remoteshutter}"
+
+Preferred Activities User 0:
+  Non-Data Actions:
+      android.media.action.IMAGE_CAPTURE:
+        161c0c2 com.lge.camera/.app.CameraActivity
+         mMatch=0x100000 mAlways=false
+          Action: "android.media.action.IMAGE_CAPTURE"
+          Category: "android.intent.category.DEFAULT"
+        f978822 com.lge.camera/.app.CameraActivity
+         mMatch=0x100000 mAlways=true
+          Selected from:
+            com.lge.camera/.app.CameraActivity
+            com.agc.gcam91/com.android.camera.activity.CaptureActivity
+          Action: "android.media.action.IMAGE_CAPTURE"
+          Category: "android.intent.category.DEFAULT"
+
+Permissions:
+  Permission [com.lge.permission.LGE_CAMERA_ACTION] (3db77ce):
+    sourcePackage=com.lge.camera
+    uid=10258 gids=null type=0 prot=signature|privileged
+    perm=Permission{a46f6ef com.lge.permission.LGE_CAMERA_ACTION}
+
+Registered ContentProviders:
+  com.lge.camera/androidx.core.content.FileProvider:
+    Provider{b4e25fc com.lge.camera/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.lge.files.camera.fileprovider]:
+    Provider{b4e25fc com.lge.camera/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{cc12485 com.lge.camera}
+
+Key Set Manager:
+  [com.lge.camera]
+      Signing KeySets: 1
+
+Packages:
+  Package [com.lge.camera] (b3b42da):
+    userId=10258
+    pkg=Package{536130b com.lge.camera}
+    codePath=/product/priv-app/LGCameraApp
+    resourcePath=/product/priv-app/LGCameraApp
+    legacyNativeLibraryDir=/product/priv-app/LGCameraApp/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=91001700 minSdk=30 targetSdk=30
+    versionName=9.10.17
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{536130b com.lge.camera}
+    flags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_UNRESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVILEGED PRODUCT PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    dataDir=/data/user/0/com.lge.camera
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2008-12-31 19:00:00
+    firstInstallTime=2008-12-31 19:00:00
+    lastUpdateTime=2008-12-31 19:00:00
+    signatures=PackageSignatures{755a5e8 version:3, signatures:[bad29dca], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    declared permissions:
+      com.lge.permission.LGE_CAMERA_ACTION: prot=signature|privileged, INSTALLED
+    requested permissions:
+      android.permission.STATUS_BAR
+      android.permission.MANAGE_EXTERNAL_STORAGE
+      android.permission.CAMERA
+      android.permission.RECORD_AUDIO
+      android.permission.BATTERY_STATS
+      android.permission.VIBRATE
+      android.permission.GET_TASKS
+      android.permission.SET_ANIMATION_SCALE
+      android.permission.DISABLE_KEYGUARD
+      android.permission.READ_PRIVILEGED_PHONE_STATE
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.WAKE_LOCK
+      android.permission.WRITE_SECURE_SETTINGS
+      com.android.launcher.permission.READ_SETTINGS
+      com.lge.permission.WRITE_SYSTEM_PROPERTIES
+      com.lge.permission.GO_SLEEP_FORCE
+      com.lge.permission.WIFIDISPLAY
+      android.permission.BROADCAST_STICKY
+      android.permission.BLUETOOTH
+      android.permission.BLUETOOTH_ADMIN
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.READ_FRAME_BUFFER
+      com.lge.permission.MANAGE_PERMISSIONS
+      android.permission.INTERACT_ACROSS_USERS
+      android.permission.INTERNET
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      com.android.gallery3d.setting.provider.permission.READ_SETTING
+      com.android.gallery3d.media.provider.permission.READ
+      com.android.gallery3d.media.provider.permission.WRITE
+      com.lge.permission.MANAGE_MEMORY
+      android.permission.CACHE_CONTENT
+      com.lge.permission.USE_SYSTEM_EVENTHUB
+      com.lge.qhelp.permission.USE_QHELP
+      com.lge.videostudio.permission
+      android.permission.MANAGE_ACTIVITY_STACKS
+      com.android.gallery3d.permission.LAUNCH
+      android.permission.START_ACTIVITIES_FROM_BACKGROUND
+      com.lge.ellievision.permission.EllieService
+      android.permission.INTERNAL_SYSTEM_WINDOW
+      android.permission.STOP_APP_SWITCHES
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.READ_PHONE_STATE
+    install permissions:
+      com.lge.permission.MANAGE_MEMORY: granted=true
+      com.android.gallery3d.permission.LAUNCH: granted=true
+      com.lge.permission.WRITE_SYSTEM_PROPERTIES: granted=true
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      android.permission.MANAGE_EXTERNAL_STORAGE: granted=true
+      android.permission.INTERNAL_SYSTEM_WINDOW: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.SET_ANIMATION_SCALE: granted=true
+      android.permission.GET_TASKS: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.BLUETOOTH_ADMIN: granted=true
+      com.lge.permission.GO_SLEEP_FORCE: granted=true
+      android.permission.STOP_APP_SWITCHES: granted=true
+      android.permission.BATTERY_STATS: granted=true
+      android.permission.WRITE_SECURE_SETTINGS: granted=true
+      com.lge.permission.MANAGE_PERMISSIONS: granted=true
+      android.permission.READ_PRIVILEGED_PHONE_STATE: granted=true
+      android.permission.BROADCAST_STICKY: granted=true
+      com.lge.ellievision.permission.EllieService: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      com.lge.permission.WIFIDISPLAY: granted=true
+      android.permission.DISABLE_KEYGUARD: granted=true
+      android.permission.INTERACT_ACROSS_USERS: granted=true
+      android.permission.CACHE_CONTENT: granted=true
+      com.android.gallery3d.media.provider.permission.WRITE: granted=true
+      com.lge.permission.USE_SYSTEM_EVENTHUB: granted=true
+      android.permission.START_ACTIVITIES_FROM_BACKGROUND: granted=true
+      com.lge.videostudio.permission: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.MANAGE_ACTIVITY_STACKS: granted=true
+      com.android.gallery3d.media.provider.permission.READ: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.STATUS_BAR: granted=true
+      android.permission.READ_FRAME_BUFFER: granted=true
+      android.permission.WAKE_LOCK: granted=true
+      com.android.gallery3d.setting.provider.permission.READ_SETTING: granted=true
+    User 0: ceDataInode=655842 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      /product/overlay/lge-res__auto_generated_rro_product.apk
+      /product/OP/overlay/framework/com.lge.apk
+      /product/OP/overlay/com.lge.camera.apk
+      gids=[1077, 3002, 3003, 3001]
+      runtime permissions:
+        android.permission.ACCESS_FINE_LOCATION: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.ACCESS_COARSE_LOCATION: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_PHONE_STATE: granted=true, flags=[ SYSTEM_FIXED|GRANTED_BY_DEFAULT|REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.CAMERA: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.RECORD_AUDIO: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+      disabledComponents:
+        com.lge.camera.app.SquareCameraActivity
+        com.lge.camera.app.AICamPinShortcutActivity
+        com.lge.camera.app.ext.PopoutActivity
+
+Queries:
+  system apps queryable: false
+  forceQueryable:
+    com.lge.camera
+  queries via package name:
+    com.lge.camera:
+      com.lge.lgworld
+      com.google.android.googlequicksearchbox
+      com.google.android.youtube
+      com.google.ar.lens
+      com.google.android.apps.photos
+      com.lge.camera.sticker.res
+      com.lge.cinemagraph
+      com.lge.animal.resource
+      com.arcsoft.app.humanavatar
+  queries via intent:
+  queryable via interaction:
+    User 0:
+      [com.lge.gdec.client,com.lge.gametuner,com.lge.wifisettings,com.lge.smartsharepush,com.lge.lgdmsclient,com.android.settingsaccessibility,com.android.localtransport,com.lge.themeservice,com.lge.myplace,com.lge.mlt,com.lge.eltest,com.lge.seamlesswallpaper.dsapphire,com.lge.bluetoothsetting,com.lge.entitlementcheckservice,com.android.keychain,com.android.LGSetupWizard,com.lge.covertools,com.lge.sync,com.android.location.fused,com.lge.lms2,com.lge.dualscreenfirmware,com.lge.gamelauncher,com.lge.musiccontroller,com.crucialsoft.asm,com.lge.sdencryption,com.hy.system.fontserver,com.lge.hotspotprovision,com.lge.systemuisettings,com.lge.hiddenmenu,com.lge.mlupnp,com.lge.lginstallservies,com.qti.diagservices,com.lge.mirrorlink,com.lge.signboard.settings,com.android.wallpaperbackup,com.lge,com.lge.gametools.gamerecorder,com.lge.faceglance.enrollment,com.android.inputdevices,com.lge.lockscreensettings,com.lge.mirroringhead,com.crucialsoft.fidoservice,com.lge.ia.task.smartcare,com.lge.provider.systemui,com.lge.floatingbar,com.lge.carfinding,com.lge.phonemanagement,com.lge.qmemoplus,android,com.lge.servicemenu,com.android.server.telecom,com.android.networkstack.tethering.inprocess,com.lge.leccp,com.qti.snapdragon.qdcm_ff,com.qualcomm.qti.xrvd.service,com.lge.srtc,com.lge.myplace.engine,com.android.settings,com.lge.faceglance.trustagent,com.lge.seamlesswallpaper.crystal_moonlight,com.lge.lgfota.permission,com.lge.seamlesswallpaper.emerald,com.lge.smartenabler,com.lge.signboard,com.lge.systemservice,com.lge.gametools,com.lge.operator.hiddenmenu,com.lge.lgbroadcastradioservice,com.lge.wifi.p2p,com.qualcomm.qti.services.secureui,com.lge.icecontacts,com.lge.gamepad,com.lge.android.atservice,com.lge.nextcapture,com.android.providers.settings,com.android.dynsystem,com.lge.NfcSettings]:
+        com.lge.camera
+      com.google.android.googlequicksearchbox:
+        com.lge.camera
+      com.lge.camera:
+        [com.lge.gdec.client,com.lge.gametuner,com.lge.wifisettings,com.lge.smartsharepush,com.lge.lgdmsclient,com.android.settingsaccessibility,com.android.localtransport,com.lge.themeservice,com.lge.myplace,com.lge.mlt,com.lge.eltest,com.lge.seamlesswallpaper.dsapphire,com.lge.bluetoothsetting,com.lge.entitlementcheckservice,com.android.keychain,com.android.LGSetupWizard,com.lge.covertools,com.lge.sync,com.android.location.fused,com.lge.lms2,com.lge.dualscreenfirmware,com.lge.gamelauncher,com.lge.musiccontroller,com.crucialsoft.asm,com.lge.sdencryption,com.hy.system.fontserver,com.lge.hotspotprovision,com.lge.systemuisettings,com.lge.hiddenmenu,com.lge.mlupnp,com.lge.lginstallservies,com.qti.diagservices,com.lge.mirrorlink,com.lge.signboard.settings,com.android.wallpaperbackup,com.lge,com.lge.gametools.gamerecorder,com.lge.faceglance.enrollment,com.android.inputdevices,com.lge.lockscreensettings,com.lge.mirroringhead,com.crucialsoft.fidoservice,com.lge.ia.task.smartcare,com.lge.provider.systemui,com.lge.floatingbar,com.lge.carfinding,com.lge.phonemanagement,com.lge.qmemoplus,android,com.lge.servicemenu,com.android.server.telecom,com.android.networkstack.tethering.inprocess,com.lge.leccp,com.qti.snapdragon.qdcm_ff,com.qualcomm.qti.xrvd.service,com.lge.srtc,com.lge.myplace.engine,com.android.settings,com.lge.faceglance.trustagent,com.lge.seamlesswallpaper.crystal_moonlight,com.lge.lgfota.permission,com.lge.seamlesswallpaper.emerald,com.lge.smartenabler,com.lge.signboard,com.lge.systemservice,com.lge.gametools,com.lge.operator.hiddenmenu,com.lge.lgbroadcastradioservice,com.lge.wifi.p2p,com.qualcomm.qti.services.secureui,com.lge.icecontacts,com.lge.gamepad,com.lge.android.atservice,com.lge.nextcapture,com.android.providers.settings,com.android.dynsystem,com.lge.NfcSettings]
+        com.brave.browser
+      com.android.gallery3d:
+        com.lge.camera
+      com.lge.ellievision:
+        com.lge.camera
+      com.lge.ime:
+        com.lge.camera
+      com.android.providers.media.module:
+        com.lge.camera
+      com.brave.browser:
+        com.lge.camera
+
+Package Changes:
+  Sequence number=350
+  User 0:
+    seq=7, package=com.google.android.gms
+    seq=13, package=com.pashapuma.pix.wallpapers
+    seq=62, package=com.google.android.apps.maps
+    seq=298, package=com.duolingo
+    seq=319, package=com.facebook.services
+    seq=323, package=com.google.android.music
+    seq=325, package=com.android.vending
+    seq=345, package=com.google.android.apps.docs
+    seq=349, package=com.facebook.appmanager
+
+
+Dexopt state:
+  [com.lge.camera]
+    path: /product/priv-app/LGCameraApp/LGCameraApp.apk
+      arm64: [status=speed-profile] [reason=unknown]
+
+
+Compiler stats:
+  [com.lge.camera]
+     LGCameraApp.apk - 4240

@@ -1,0 +1,3 @@
+#!/bin/sh
+B=/home/julian/v50-camera/tools/build
+exec java -Xmx4g -cp "$B/classes:$B/deps/guava-jre.jar:$B/deps/jsr305.jar" com.android.tools.smali.baksmali.Main "$@"
