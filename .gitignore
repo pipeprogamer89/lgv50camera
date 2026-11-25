@@ -1,13 +1,10 @@
-# Large / proprietary inputs and generated output
+# ---------------------------------------------------------------------------
+# Entradas grandes o propietarias (no redistribuir)
+# ---------------------------------------------------------------------------
 p1/
 stock-backup/
 stock-capture/
 port-capture/
-build/
-out/
-backups/
-dist/module/
-dist/*.zip
 cine/cin.tar
 cine/cinema/
 cine/film-out/
@@ -17,10 +14,32 @@ cine/film-out/
 *.vdex
 *.apk
 *.zip
+
+# ---------------------------------------------------------------------------
+# Artefactos de build
+# ---------------------------------------------------------------------------
+/build/
+/out/
+/backups/
+dist/module/
+shims/classes/
+shims/dex/
+tools/patcher/*.class
+*.class
+!tools/build/classes/**
+*.idsig
 *.log
 
-# Keep the public docs and sources
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[co]
+
+# ---------------------------------------------------------------------------
+# Excepciones: fuentes y documentación que sí se publican
+# ---------------------------------------------------------------------------
 !dist-src/
 !dist/README.md
 !dist/INSTALL.txt
-!README.md
+!dist/SHA256SUMS
