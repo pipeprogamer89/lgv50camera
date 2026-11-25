@@ -2,6 +2,8 @@
 # Entradas grandes o propietarias (no redistribuir)
 # ---------------------------------------------------------------------------
 p1/
+/ellie/*
+!/ellie/README.md
 stock-backup/
 stock-capture/
 port-capture/

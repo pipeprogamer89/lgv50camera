@@ -107,6 +107,7 @@ Entradas necesarias (**no incluidas**, son software propietario):
 - Árbol de LineageOS en `/mnt/Datos/backup/Archivos/lineage` (para `framework-res.apk` y las claves
   de test-keys)
 - Android SDK build-tools 36.1.0 y `android.jar`
+- Para el módulo combinado con AI CAM, el [APK firmado de EllieVision](ellie/README.md)
 
 ```sh
 tools/build.sh        # reconstruye el APK y out/LGCamera-V50-magisk.zip
@@ -126,12 +127,14 @@ Si vas a modificar el port, lee antes **[AGENTS.md](AGENTS.md)**.
 | `tools/patcher/` | Parcheador de dex (hooks, stubs, literales) |
 | `tools/` | Scripts de build, empaquetado, análisis de recursos y captura de logs |
 | `cine/` | LUTs originales y convertidos para Cine Video |
-| `ellie/` | EllieVision (AI CAM) y sus assets |
+| `ellie/` | Instrucciones para aportar el APK local de EllieVision (AI CAM) |
 | `p0/` | Volcados de texto del stock (props, HAL, vendor tags) |
 | `dist-src/` | Fuentes de `README`/`INSTALL` que se publican en `dist/` |
 | `docs/` | Documentación técnica del port |
 
 ## Documentación
+
+Para actualizar `p0/props.txt` con el V50 conectado por ADB, ejecuta `python3 tools/capture_props.py`. El script filtra las propiedades de número de serie antes de guardar el volcado.
 
 - **[docs/PORT.md](docs/PORT.md)** — estado del port: qué se parcheó, verificación y pruebas en
   dispositivo, cambios necesarios en el árbol de Lineage.

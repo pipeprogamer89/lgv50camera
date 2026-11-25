@@ -1,12 +1,12 @@
 # NOTICE
 
-Este repositorio contiene **parches, shims y herramientas de interoperabilidad**. No contiene ni
-distribuye el software propietario sobre el que trabaja.
+Este repositorio contiene **parches, shims y herramientas de interoperabilidad** para la cámara del LG V50.
 
-## Componentes propietarios (no incluidos)
+## Componentes del firmware
 
-Los siguientes componentes son **propiedad de LG Electronics** y se obtienen del firmware del
-dispositivo. No se incluyen en este repositorio ni en sus *releases* con fines de redistribución:
+Los siguientes componentes proceden del firmware del dispositivo. Para compilar el módulo se
+aportan los archivos locales indicados en el README. El ZIP de distribución incluye la cámara
+parcheada, el HAL y el APK firmado de EllieVision.
 
 | Componente | Origen |
 |---|---|
